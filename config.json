@@ -2,6 +2,6 @@
   "dbConfig": {
     "serverMode": "full",
     "requestChunkSize": 4096,
-    "url": "https://teatime-library.github.io/database/books.db",
+    "url": "https://teatime-library.github.io/database/books.db"
   }
 }
