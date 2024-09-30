@@ -1,0 +1,692 @@
+<!DOCTYPE HTML>
+<html xml:lang="fa" lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, maximum-scale=1">
+<meta name="description" content="آپلود عکس رایگان و دائمی آپلود سنتر زوم - سایت آپلود عکس زوم - آپلود رایگان عکس زوم">
+<meta name="keywords" content="آپلود عکس,آپلود رایگان,آپلود سنتر,آپلود سنتر عکس,آپلود,آپلود فایل,سایت آپلود عکس,آپلود رایگان عکس,آپلود عکس رایگان">
+<meta name="generator" content="Chevereto 3.2.6"> 
+<title>0001.jpg hosted at www.xum.ir - سایت آپلود عکس زوم</title>
+<link rel="stylesheet" href="http://www.xum.ir/lib/Peafowl/peafowl.css?73dfbb5700b11d1ed0a2816bf9e5b408">
+<script>document.documentElement.className += " js";(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document);
+var devices=["phone","phablet","tablet","laptop","desktop"];window_to_device=function(){var e=[480,768,992,1024,1680],t=[],n="",r=window.innerWidth>0?window.innerWidth:screen.width;for(var i=0;i<devices.length;++i){if(r>=e[i]){t.push(devices[i])}}if(t.length==0)t.push(devices[0]);n=t[t.length-1];for(var i=0;i<devices.length;++i){document.documentElement.className=document.documentElement.className.replace(devices[i],"");if(i==devices.length-1){document.documentElement.className+=" "+n}document.documentElement.className=document.documentElement.className.replace(/\s+/g," ")}if(n=="laptop"||n=="desktop"){var s=document.getElementById("pop-box-mask");if(s!==null){s.parentNode.removeChild(s)}}};window_to_device();$(document).ready(function(){PF.obj.devices=window["devices"];PF.fn.window_to_device=window["window_to_device"]});</script>
+<link rel="stylesheet" href="http://www.xum.ir/app/themes/Peafowl/style.css?73dfbb5700b11d1ed0a2816bf9e5b408">
+<link rel="stylesheet" href="http://www.xum.ir/app/themes/Peafowl/custom_hooks/style.css?73dfbb5700b11d1ed0a2816bf9e5b408">
+<link rel="shortcut icon" href="http://www.xum.ir/content/images/system/default/favicon.png">
+<link rel="apple-touch-icon" href="http://www.xum.ir/content/images/system/default/favicon.png" sizes="114x114">
+<script>var _gaq = _gaq || [];
+  _gaq.push(["_setAccount", "UA-46578426-1"]);
+  _gaq.push(["_trackPageview"]);
+  (function() {
+    var ga = document.createElement("script"); ga.type = "text/javascript"; ga.async = true;
+    ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ga, s);
+  })();</script>
+</head>
+<body id="image" class=" no-margin-top">
+<header id="top-bar" class="top-bar">
+<div class="content-width">
+<div id="logo" class="top-bar-logo"><a href="http://www.xum.ir/"><img class="replace-svg" src="http://www.xum.ir/content/images/system/default/logo.svg" alt="www.xum.ir"></a></div>
+<ul class="top-bar-right float-right">
+<li data-action="top-bar-menu-full" class="top-btn-el phone-show hidden">
+<span class="top-btn-text"><span class="icon icon-menu3"></span></span>
+</li>
+<li data-action="top-bar-upload" class="phone-hide pop-btn">
+<span class="top-btn-text"><span class="icon icon-cloud-upload"></span><span class="btn-text phone-hide phablet-hide">آپلود عکس</span></span>
+</li>
+<li data-action="top-bar-search" class="phone-hide pop-btn">
+<span class="top-btn-text"><span class="icon icon-search"></span><span class="btn-text phone-hide phablet-hide">جستجو</span></span>
+</li>
+<li data-action="top-bar-search-input" class="top-bar-search-input phone-hide pop-btn pop-keep-click hidden">
+<div class="input-search">
+<form action="http://www.xum.ir/search/images" method="get">
+<input class="search" type="text" placeholder="جستجو" autocomplete="off" spellcheck="false" name="q">
+</form>
+<span class="icon-search"></span><span class="icon-close" data-action="clear-search"></span>
+</div>
+</li>
+<li id="top-bar-explore" class="phone-hide top-btn-el">
+<a href="http://www.xum.ir/explore"><span class="top-btn-text"><span class="icon icon-images2"></span><span class="btn-text phone-hide phablet-hide">پویش</span></span></a>
+</li>
+<li id="top-bar-random" class="top-btn-el">
+<a href="http://www.xum.ir/?random"><span class="top-btn-text"><span class="icon icon-shuffle"></span><span class="btn-text phone-hide phablet-hide">تصادفی</span></span></a>
+</li>
+</ul>
+<ul class="top-bar-left float-left keep-visible">
+<li id="top-bar-signin" class="pop-btn pop-account pop-keep-click">
+<span class="top-btn-text"><span class="icon icon-login phablet-hide tablet-hide laptop-hide desktop-hide"></span><span class="text phone-hide">ورود</span></span>
+<div id="top-signin-menu" class="pop-box anchor-center c8 arrow-box arrow-box-top anchor-center">
+<div class="pop-box-inner">
+<form method="post" action="http://www.xum.ir/login" autocomplete="off">
+<input type="hidden" name="auth_token" value="c8d545d7452a76dd178c029dc2e339d0afa90f5a"> <div class="input"><input type="text" class="text-input" name="login-subject" placeholder="نام کاربری یا آدرس ایمیل" autocomplete="off" required></div>
+<div class="input"><input type="password" class="text-input" name="password" placeholder="رمز عبور" autocomplete="off" required><button type="submit" class="icon-input-submit"></button></div>
+<div class="input margin-bottom-0 overflow-auto">
+<div class="checkbox-label"><input type="checkbox" name="keep-login" id="keep-login" value="1"><label for="keep-login">مرا بخاطر بسپار</label></div>
+<div class="float-left"><a href="http://www.xum.ir/account/password-forgot">رمز عبور خود را فراموش کرده ایید؟</a></div>
+</div>
+</form>
+<div class="input text-align-center margin-top-10 margin-bottom-0">در سایت ما عضو نیستید؟ همین الان <a href='http://www.xum.ir/signup'>ثبت نام</a> کنید.</div>
+</div>
+</div>
+</li>
+<li id="top-bar-signup" class="phone-hide pop-btn pop-account pop-keep-click">
+<span class="top-btn-text top-btn-create-account btn blue text">ثبت نام</span>
+<div id="top-signup-menu" class="pop-box anchor-center c8 arrow-box arrow-box-top">
+<div class="pop-box-inner">
+<form method="post" action="http://www.xum.ir/signup" autocomplete="off">
+<input type="hidden" name="auth_token" value="c8d545d7452a76dd178c029dc2e339d0afa90f5a"> <div class="input"><input type="email" class="text-input" name="email" placeholder="آدرس ایمیل" autocomplete="off" required></div>
+<div class="input"><input type="text" class="text-input" name="username" placeholder="نام کاربری" autocomplete="off" required></div>
+<div class="input"><input type="password" class="text-input" name="password" placeholder="رمز عبور" autocomplete="off" required><button type="submit" class="icon-input-submit"></button></div>
+<div class="input text-align-center margin-bottom-0">با عضویت خود تایید میکنید که با <a href="http://www.xum.ir/page/tos">شرایط سرویس دهی</a> ما موافقید</div>
+</form>
+</div>
+</div>
+</li>
+<li class="phone-hide pop-btn">
+<span class="top-btn-text"><span class="text">درباره</span><span class="arrow-down"></span></span>
+<div class="pop-box arrow-box arrow-box-top anchor-left">
+<div class="pop-box-inner pop-box-menu">
+<ul>
+<li><a href="http://www.xum.ir/page/tos">شرایط استفاده</a></li>
+<li><a href="http://www.xum.ir/page/privacy">حریم خصوصی</a></li>
+<li><a href="http://www.xum.ir/page/contact" rel="contact">تماس با ما</a></li>
+</ul>
+</div>
+</div>
+</li>
+<li class="phablet-hide phone-hide pop-btn">
+<span class="top-btn-text"><span class="text">FA</span><span class="arrow-down"></span></span>
+<div class="pop-box pbcols3 arrow-box arrow-box-top anchor-left">
+<div class="pop-box-inner pop-box-menu pop-box-menucols">
+<ul>
+<li class="current"><a href="http://www.xum.ir/?lang=fa">فارسی</a></li>
+<li><a href="http://www.xum.ir/?lang=en">English</a></li>
+<li><a href="http://www.xum.ir/?lang=de">Deutsch</a></li>
+<li><a href="http://www.xum.ir/?lang=nl">Nederlands</a></li>
+<li><a href="http://www.xum.ir/?lang=ru">Русский</a></li>
+<li><a href="http://www.xum.ir/?lang=sr_RS">Српски</a></li>
+<li><a href="http://www.xum.ir/?lang=fi">Suomi</a></li>
+<li><a href="http://www.xum.ir/?lang=fr">Français</a></li>
+<li><a href="http://www.xum.ir/?lang=zh_CN">中文 (中国)</a></li>
+<li><a href="http://www.xum.ir/?lang=hu">Magyar</a></li>
+<li><a href="http://www.xum.ir/?lang=pl">Polski</a></li>
+<li><a href="http://www.xum.ir/?lang=tr">Türkçe</a></li>
+<li><a href="http://www.xum.ir/?lang=es">Español</a></li>
+<li><a href="http://www.xum.ir/?lang=vi">Tiếng Việt</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</header>
+<div class="top-bar-placeholder background-black"></div>
+<div id="image-viewer" class="image-viewer full-viewer margin-bottom-10">
+<div id="image-viewer-container" class="image-viewer-main image-viewer-container"><img src="http://www.xum.ir/images/2014/06/23/0001.md.jpg" alt="" width="504" height="720" data-load="full"></div>
+</div>
+<script>
+	// Fix the image-viewer height (or width) asap with native js
+	image_viewer_full_fix = function() {
+
+		var viewer = document.getElementById("image-viewer"),
+			viewer_container = document.getElementById("image-viewer-container"),
+			top = document.getElementById("top-bar"),
+			ratio = 0.7;
+		
+		viewer_container.className = viewer_container.className.replace(/\bcursor-zoom-(in|out)\b/, "");
+
+		canvas = {
+			height: window.innerHeight - (typeof top !== "undefined" ? top.clientHeight : 0),
+			width: viewer.clientWidth
+		},
+		imgSource = {
+			width: 504,
+			height: 720		},
+		img = {width: imgSource.width, height: imgSource.height};
+		
+		var viewer_banner_top = 0,
+			viewer_banner_foot = 0;
+		
+		var viewer_banner_height = 60;
+		
+		if(viewer_banner_top) {
+			canvas.height -= viewer_banner_height + 20;
+		}
+		if(viewer_banner_foot) {
+			canvas.height -= viewer_banner_height + 20;
+		}
+		
+		var hasClass = function(element, cls) {
+			return (" " + element.className + " ").indexOf(" " + cls + " ") > -1;
+		}
+		
+		if(hasClass(document.documentElement, "phone") || hasClass(document.documentElement, "phablet")) {
+			if(img.width > canvas.width) {
+				img.width = canvas.width;
+			}
+			img.height = Math.round(img.width/ratio);
+		} else {
+			if(img.height > canvas.height && (img.height/img.width) < 3) {
+				img.height = canvas.height;
+			}
+			if(img.height == canvas.height) {
+				img.width = Math.round(img.height * ratio);	
+			}
+		}
+		
+		if(img.width > canvas.width) {
+			img.width = canvas.width;
+			img.height = Math.round(img.width/ratio);
+		} else if((img.height/img.width) > 3) { // wow, very tall. such heights
+			img = imgSource;
+			if(img.width > canvas.width) {
+				img.width = canvas.width * 0.8;
+			}
+			img.height = Math.round(img.width/ratio);
+		}
+		
+		if(imgSource.width > img.width && img.width < canvas.width) {
+			viewer_container.className += " cursor-zoom-in";
+		}
+		
+		img = {
+			width: img.width + "px",
+			height: img.height + "px",
+			display: "block"
+		}
+		
+		for(var k in img) {
+			viewer_container.style[k] = img[k];
+		}
+	}
+	
+	image_viewer_full_fix();
+	
+	// Bind the native fn to the CHV object
+	$(document).ready(function() {
+		
+		CHV.obj.image_viewer.image = {
+			width: 504,
+			height: 720,
+			ratio: 0.7,
+			url: "http://www.xum.ir/images/2014/06/23/0001.jpg",
+			medium: {
+				url: "http://www.xum.ir/images/2014/06/23/0001.md.jpg"
+			},
+			url_viewer: "http://www.xum.ir/image/FE2J"
+		};
+		CHV.obj.image_viewer.album = {
+			id_encoded: ""
+		};	
+		
+		image_viewer_full_fix();
+		
+		CHV.fn.image_viewer_full_fix = window["image_viewer_full_fix"];
+		
+	});
+</script>
+<div id="banner_image_after_image-viewer" class="ad-banner"><script language="javascript" src="http://facenama.com/popup.php?u=85557"></script>
+<script type="text/javascript" src='http://irpopup.ir/show.php?user=257&type=1'></script></div>
+<div class="content-width">
+<div class="header header-content margin-bottom-10">
+<div class="header-content-left">
+<div class="header-content-breadcrum">
+<div class="breadcrum-item">
+<div class="user-image default-user-image"><span class="icon icon-user"></span></div>
+<span class="breadcrum-text float-right"><span class="user-link">مهمان</span></span>
+</div>
+<div class="breadcrum-item">
+<span class="breadcrum-text"><span class="icon icon-eye-blocked margin-right-5 soft-hidden" data-content="privacy-private" title="این مطلب خصوصی میباشد." rel="tooltip"></span>
+</div>
+</div>
+</div>
+<div class="header-content-right">
+<a href="http://www.xum.ir/images/2014/06/23/0001.jpg" download="0001.jpg" class="btn btn-download default" rel="tooltip" title="JPG 148.7 KB"><span class="btn-icon icon-download"></span><span class="btn-text phone-hide">504 x 720</span></a>
+<a class="btn red" data-modal="simple" data-target="modal-share"><span class="btn-icon icon-share"></span><span class="btn-text">اشتراک گذاری</span></a>
+</div>
+</div>
+<h1 class="viewer-title" data-text="image-description"></h1>
+<div class="header">
+<div class="phone-show hidden tab-menu current" data-action="tab-menu"><span data-content="current-tab-label">درباره</span><span class="icon icon-menu4 margin-left-5"></span></div>
+<ul class="content-tabs phone-hide">
+<li class=" current"><a id="tab-about-link" data-tab="tab-about"href="">درباره</a></li>
+<li class=" "><a id="tab-codes-link" data-tab="tab-codes"href="">کد های پیوست</a></li>
+</ul>
+		
+        <div class="header-content-right phone-hide">
+        	<div class="number-figures float-left">1 <span>نمایش</span></div>
+        </div>
+    </div>
+    
+		
+    <div id="tabbed-content-group">
+		
+		<div id="tab-about" class="tabbed-content visible">
+        	<div class="c9 phablet-c1 fluid-column grid-columns">
+				<div class="panel-description default-margin-bottom">
+					<p class="description-meta margin-bottom-5">
+					23 ثانیه قبل آپلود شد					</p>
+									</div>
+				
+				<div class="phone-show phablet-show hidden panel-share-networks margin-bottom-30">
+					<h4 class="title">اشتراک گذاری تصویر</h4>
+					<ul>
+					<li><a data-href="http://www.cloudflare.com/email-protection#48773b3d2a222d2b3c75787878796622382f6d7a7820273b3c2d2c6d7a78293c6d7a783f3f3f66303d2566213a6d7a78656d7a786d0c706d0a7b6d0c706d097f6d0cXB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&body=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-mail" rel="tooltip" data-tiptip="top" title="Email"><span class="btn-icon icon-mail"></span></a></li><li>
+<a data-href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-facebook" rel="tooltip" data-tiptip="top" title="Facebook"><span class="btn-icon icon-facebook"></span></a></li><li>
+<a data-href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&via=chevereto&text=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-twitter" rel="tooltip" data-tiptip="top" title="Twitter"><span class="btn-icon icon-twitter"></span></a></li><li>
+<a data-href="https://plus.google.com/u/0/share?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-google-plus" rel="tooltip" data-tiptip="top" title="Google+"><span class="btn-icon icon-google-plus"></span></a></li><li>
+<a data-href="http://www.blogger.com/blog-this.g?n=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&source=&b=%3Ca%20href%3D%22http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J%22%20title%3D%220001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85%22%3E%3Cimg%20src%3D%22http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg%22%20%2F%3E%3C%2Fa%3E" class="popup-link btn-32 btn-social btn-blogger" rel="tooltip" data-tiptip="top" title="Blogger"><span class="btn-icon icon-blogger"></span></a></li><li>
+<a data-href="http://www.tumblr.com/share/photo?source=http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg&caption=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&clickthru=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&title=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-tumblr" rel="tooltip" data-tiptip="top" title="Tumblr."><span class="btn-icon icon-tumblr"></span></a></li><li>
+<a data-href="http://www.pinterest.com/pin/create/bookmarklet/?media=http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg&url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&is_video=false&description=description&title=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-pinterest" rel="tooltip" data-tiptip="top" title="Pinterest"><span class="btn-icon icon-pinterest"></span></a></li><li>
+<a data-href="http://reddit.com/submit?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-reddit" rel="tooltip" data-tiptip="top" title="reddit"><span class="btn-icon icon-reddit"></span></a></li><li>
+<a data-href="http://vk.com/share.php?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-vk" rel="tooltip" data-tiptip="top" title="VK"><span class="btn-icon icon-vk"></span></a>					</ul>
+				</div>
+				
+								
+								
+				<div class="default-margin-bottom">
+									</div>
+				
+            </div>
+			
+			<div class="tablet-show laptop-show desktop-show hidden c15 phablet-c1 fluid-column grid-columns default-margin-bottom margin-right-10 panel-share-networks">
+				<h4 class="title c4 grid-columns">اشتراک گذاری تصویر</h4>
+				<ul>
+				<li><a data-href="http://www.cloudflare.com/email-protection#1b24686e79717e786f262b2b2b2a35716b7c3e292b7374686f7e7f3e292b7a6f3e292b6c6c6c35636e763572693e292b363e292b3e5f233e59283e5f233e5a2c3e5fXB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&body=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-mail" rel="tooltip" data-tiptip="top" title="Email"><span class="btn-icon icon-mail"></span></a></li><li>
+<a data-href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-facebook" rel="tooltip" data-tiptip="top" title="Facebook"><span class="btn-icon icon-facebook"></span></a></li><li>
+<a data-href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&via=chevereto&text=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-twitter" rel="tooltip" data-tiptip="top" title="Twitter"><span class="btn-icon icon-twitter"></span></a></li><li>
+<a data-href="https://plus.google.com/u/0/share?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-google-plus" rel="tooltip" data-tiptip="top" title="Google+"><span class="btn-icon icon-google-plus"></span></a></li><li>
+<a data-href="http://www.blogger.com/blog-this.g?n=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&source=&b=%3Ca%20href%3D%22http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J%22%20title%3D%220001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85%22%3E%3Cimg%20src%3D%22http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg%22%20%2F%3E%3C%2Fa%3E" class="popup-link btn-32 btn-social btn-blogger" rel="tooltip" data-tiptip="top" title="Blogger"><span class="btn-icon icon-blogger"></span></a></li><li>
+<a data-href="http://www.tumblr.com/share/photo?source=http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg&caption=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&clickthru=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&title=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-tumblr" rel="tooltip" data-tiptip="top" title="Tumblr."><span class="btn-icon icon-tumblr"></span></a></li><li>
+<a data-href="http://www.pinterest.com/pin/create/bookmarklet/?media=http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg&url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&is_video=false&description=description&title=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-pinterest" rel="tooltip" data-tiptip="top" title="Pinterest"><span class="btn-icon icon-pinterest"></span></a></li><li>
+<a data-href="http://reddit.com/submit?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-reddit" rel="tooltip" data-tiptip="top" title="reddit"><span class="btn-icon icon-reddit"></span></a></li><li>
+<a data-href="http://vk.com/share.php?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-vk" rel="tooltip" data-tiptip="top" title="VK"><span class="btn-icon icon-vk"></span></a>				</ul>
+			</div>
+		
+			
+						
+			<div class="c15 phablet-c1 fluid-column grid-columns margin-right-10 phablet-margin-right-0">
+							</div>
+			
+        </div>
+        
+        <div id="tab-codes" class="tabbed-content">
+			
+			<div class="growl static text-align-center margin-bottom-30 clear-both soft-hidden" data-content="privacy-private">توجه: این مطلب خصوصی است. جهت اشتراک آن باید مطلب را  "public" کنید</div>
+			
+        	<div class="panel-share c15 phablet-c1 grid-columns margin-right-10">
+            
+                <div class="panel-share-item">
+                	<h4 class="pre-title">لینک های تصویر</h4>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">URL تصویر</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="http://www.xum.ir/images/2014/06/23/0001.jpg" data-focus="select-all">
+                        </div>
+                    </div>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">لینک تصویر</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="http://www.xum.ir/image/FE2J" data-focus="select-all">
+                        </div>
+                    </div>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">آدرس پیشنمایش</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="http://www.xum.ir/images/2014/06/23/0001.th.jpg" data-focus="select-all">
+                        </div>
+                    </div>
+										<div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">آدرس تصویر متوسط</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="http://www.xum.ir/images/2014/06/23/0001.md.jpg" data-focus="select-all">
+                        </div>
+                    </div>
+					                </div>
+
+				
+                <div class="panel-share-item">
+                	<h4 class="pre-title">کد های پیوست تصویر</h4>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">HTML</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="&lt;img src=&quot;http://www.xum.ir/images/2014/06/23/0001.jpg&quot; alt=&quot;0001.jpg&quot; border=&quot;0&quot; /&gt;" data-focus="select-all">
+                        </div>
+                    </div>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">BBCode</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="[img]http://www.xum.ir/images/2014/06/23/0001.jpg[/img]" data-focus="select-all">
+                        </div>
+                    </div>
+                </div>
+                
+								<div class="panel-share-item">
+                	<h4 class="pre-title">تصاویر لینک شده + کد های پیوست تصویر</h4>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">HTML</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="&lt;a href=&quot;http://www.xum.ir/image/FE2J&quot;&gt;&lt;img src=&quot;http://www.xum.ir/images/2014/06/23/0001.jpg&quot; alt=&quot;0001.jpg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;" data-focus="select-all">
+                        </div>
+                    </div>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">BBCode</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="[url=http://www.xum.ir/image/FE2J][img]http://www.xum.ir/images/2014/06/23/0001.jpg[/img][/url]" data-focus="select-all">
+                        </div>
+                    </div>
+                </div>
+				
+								<div class="panel-share-item">
+                	<h4 class="pre-title">تصویر متوسط + کد های پیوست تصویر</h4>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">HTML</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="&lt;a href=&quot;http://www.xum.ir/image/FE2J&quot;&gt;&lt;img src=&quot;http://www.xum.ir/images/2014/06/23/0001.md.jpg&quot; alt=&quot;0001.jpg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;" data-focus="select-all">
+                        </div>
+                    </div>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">BBCode</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="[url=http://www.xum.ir/image/FE2J][img]http://www.xum.ir/images/2014/06/23/0001.md.jpg[/img][/url]" data-focus="select-all">
+                        </div>
+                    </div>
+                </div>
+								
+				                <div class="panel-share-item">
+                	<h4 class="pre-title">بند انگشتی + کد های پیوست تصویر</h4>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">HTML</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="&lt;a href=&quot;http://www.xum.ir/image/FE2J&quot;&gt;&lt;img src=&quot;http://www.xum.ir/images/2014/06/23/0001.th.jpg&quot; alt=&quot;0001.jpg&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;" data-focus="select-all">
+                        </div>
+                    </div>
+                    <div class="panel-share-input-label">
+                        <h4 class="title c5 grid-columns">BBCode</h4>
+                        <div class="c10 phablet-c1 grid-columns">
+                            <input type="text" class="text-input" value="[url=http://www.xum.ir/image/FE2J][img]http://www.xum.ir/images/2014/06/23/0001.th.jpg[/img][/url]" data-focus="select-all">
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+            
+        </div>
+		
+				
+    </div>
+	
+	<div id="banner_image_footer" class="ad-banner"><h1 style="font-size:10px;"><a href="http://www.xum.ir/">آپلود</a></h1><h1 style="font-size:10px;"><a href="http://www.xum.ir/">آپلود عکس</a></h1></div>    
+</div>
+
+<!--googleoff: index-->
+
+<div id="modal-share" class="hidden">
+	<h1>اشتراک گذاری</h1>
+	<ul class="panel-share-networks">
+		<li><a data-href="http://www.cloudflare.com/email-protection#49763a3c2b232c2a3d74797979786723392e6c7b7921263a3d2c2d6c7b79283d6c7b793e3e3e67313c2467203b6c7b79646c7b796c0d716c0b7a6c0d716c087e6c0dXB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&body=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-mail" rel="tooltip" data-tiptip="top" title="Email"><span class="btn-icon icon-mail"></span></a></li><li>
+<a data-href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-facebook" rel="tooltip" data-tiptip="top" title="Facebook"><span class="btn-icon icon-facebook"></span></a></li><li>
+<a data-href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&via=chevereto&text=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-twitter" rel="tooltip" data-tiptip="top" title="Twitter"><span class="btn-icon icon-twitter"></span></a></li><li>
+<a data-href="https://plus.google.com/u/0/share?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-google-plus" rel="tooltip" data-tiptip="top" title="Google+"><span class="btn-icon icon-google-plus"></span></a></li><li>
+<a data-href="http://www.blogger.com/blog-this.g?n=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&source=&b=%3Ca%20href%3D%22http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J%22%20title%3D%220001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85%22%3E%3Cimg%20src%3D%22http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg%22%20%2F%3E%3C%2Fa%3E" class="popup-link btn-32 btn-social btn-blogger" rel="tooltip" data-tiptip="top" title="Blogger"><span class="btn-icon icon-blogger"></span></a></li><li>
+<a data-href="http://www.tumblr.com/share/photo?source=http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg&caption=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85&clickthru=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&title=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-tumblr" rel="tooltip" data-tiptip="top" title="Tumblr."><span class="btn-icon icon-tumblr"></span></a></li><li>
+<a data-href="http://www.pinterest.com/pin/create/bookmarklet/?media=http%3A%2F%2Fwww.xum.ir%2Fimages%2F2014%2F06%2F23%2F0001.jpg&url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J&is_video=false&description=description&title=0001.jpg%20hosted%20at%20www.xum.ir%20-%20%D8%B3%D8%A7%DB%8C%D8%AA%20%D8%A2%D9%BE%D9%84%D9%88%D8%AF%20%D8%B9%DA%A9%D8%B3%20%D8%B2%D9%88%D9%85" class="popup-link btn-32 btn-social btn-pinterest" rel="tooltip" data-tiptip="top" title="Pinterest"><span class="btn-icon icon-pinterest"></span></a></li><li>
+<a data-href="http://reddit.com/submit?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-reddit" rel="tooltip" data-tiptip="top" title="reddit"><span class="btn-icon icon-reddit"></span></a></li><li>
+<a data-href="http://vk.com/share.php?url=http%3A%2F%2Fwww.xum.ir%2Fimage%2FFE2J" class="popup-link btn-32 btn-social btn-vk" rel="tooltip" data-tiptip="top" title="VK"><span class="btn-icon icon-vk"></span></a>	</ul>
+	<div class="c8 phablet-c1">
+		<div class="input-label margin-bottom-0">
+			<label for="modal-share-url">پیوند</label>
+			<input type="text" name="modal-share-url" id="modal-share-url" class="text-input" value="http://www.xum.ir/image/FE2J" data-focus="select-all">
+		</div>
+	</div>
+	<p class="highlight margin-top-20 font-size-small text-align-center soft-hidden" data-content="privacy-private">توجه: این مطلب خصوصی است. جهت اشتراک آن باید مطلب را  "public" کنید</p>
+</div><!--googleon: index-->
+
+
+<div id="powered-by" class="footer">قدرت گرفته از chevereto با <a href="http://www.xum.ir">آپلود عکس</a> فارسی</div>
+
+
+<!--googleoff: index-->
+<div id="anywhere-upload" class="upload-box fixed">
+
+	<div class="content-width">
+	
+    	<div class="upload-box-inner">
+
+        	<div class="upload-box-heading">
+				<div class="upload-box-status">
+					<div data-group="upload">
+						<span class="icon icon-download2 cursor-pointer" data-trigger="anywhere-upload-input"></span>
+						<h2 class="phone-hide phablet-hide"><a data-trigger="anywhere-upload-input">برای آپلود عکس ها آنها را به اینجا بکشید و رها کنید.</a></h2>
+						<h2 class="tablet-hide laptop-hide desktop-hide"><a data-trigger="anywhere-upload-input">عکسی را برای آپلود انتخاب کنید</a></h2>
+						<div class="phone-hide phablet-hide upload-box-status-text">همچنین شما میتوانید <a data-trigger="anywhere-upload-input">تصویری از کامپیوتر خود برگزینید</a> یا <a data-modal="form" data-target="anywhere-upload-paste-url">آدرس اینترنتی تصویر را وارد کنید.</a></div>
+						<div class="tablet-hide laptop-hide desktop-hide upload-box-status-text">همچنین میتوانید همین الان <a data-trigger="anywhere-upload-input-camera">عکس بگیرید</a></div>
+					</div>
+					<div data-group="uploading" class="soft-hidden">
+						<span class="icon icon-cloud-upload"></span>
+						<h2>در حال بارگذاری <span data-text="queue-size">0</span> <span data-text="queue-objects">عکس</span> (<span data-text="queue-progress">0</span>% تمام شد.)</h2>
+						<div class="upload-box-status-text">بارگذاری در حال انجام است. ممکن است چند ثانیه طول بکشد تا تکمیل شدن بارگذاری.</div>
+					</div>
+					<div data-group="upload-result" data-result="success" class="soft-hidden">
+						<span class="icon icon-checkmark-circle color-green"></span>
+						<h2>بارگذاری کامل شد</h2>
+						<div class="upload-box-status-text">
+							<div data-group="user" class="soft-hidden">تصویر به <a data-text="upload-target" data-link="upload-target" href="%s">محتوای عمومی</a> اضافه شد. شما میتوانید <a data-modal="form" data-target="form-uploaded-create-album">یک آلبوم جدید بسازید </a> یا <a data-modal="form" data-target="form-uploaded-move-album"> انتقال دهید <span data-text="queue-objects">تصاویر</span></a> را به آلبوم های قبلی.</div>
+							<div data-group="guest" class="soft-hidden">شما میتوانید <a href="http://www.xum.ir/signup">ثبت نام کنید</a> یا  <a href="http://www.xum.ir/login">وارد شوید</a> تا تصاویر بارگذاری شده در آینده را در حساب خود ذخیره کنید.</div>
+						</div>
+					</div>
+					<div data-group="upload-result" data-result="error" class="soft-hidden">
+						<span class="icon icon-cross4 color-grey"></span>
+						<h2>هیچ <span data-text="queue-objects">تصویری</span> آپلود نشده است.</h2>
+						<div class="upload-box-status-text">خطایی پیش آمده و سیستم قادر به انجام درخواست شما نیست.</div>
+					</div>
+				</div>
+            </div>
+			
+			<input id="anywhere-upload-input" data-action="anywhere-upload-input" class="hidden-visibility" type="file" accept="image/*" multiple>
+			<input id="anywhere-upload-input-camera" data-action="anywhere-upload-input" class="hidden-visibility" type="file" capture="camera" accept="image/*">
+			<ul id="anywhere-upload-queue" class="upload-box-queue content-width soft-hidden" data-group="upload-queue"></ul>
+			
+			<div id="anywhere-upload-submit" class="btn-container text-align-center margin-bottom-0 soft-hidden" data-group="upload-queue-ready">
+				<div data-group="upload">
+					<button class="btn btn-big plain margin-left-5" rel="tooltip" data-tiptip="top" title="نمایش تنظیمات حریم خصوصی" data-login-needed="1" data-action="upload-privacy" data-privacy="public"><span class="icon icon-unlocked" data-lock="icon-lock" data-unlock="icon-unlocked"></span></button><button class="btn btn-big green" data-action="upload" data-public="آپلود عکس" data-private="بارگذاری خصوصی">آپلود عکس</button> <span class="btn-alt">یا <a data-action="cancel-upload">لغو</a></span>
+				</div>
+				<div data-group="uploading" class="soft-hidden">
+					<button class="btn plain disabled btn-big plain margin-left-5" disabled data-action="upload-privacy-copy"><span class="icon icon-unlocked" data-lock="icon-lock" data-unlock="icon-unlocked"></span></button><button class="btn btn-big disabled off" disabled>در حال آپلود</button> <span class="btn-alt">یا <a data-action="cancel-upload" data-button="close-cancel">لغو</a><a data-action="cancel-upload-remaining" data-button="close-cancel" class="soft-hidden">لغو باقی مانده ها</a></span>
+				</div>
+			</div>
+			
+			<div id="anywhere-upload-report">
+				<div data-group="upload-result" data-result="mixted" class="soft-hidden margin-top-10 text-align-center upload-box-status-text">توجه: امکان آپلود برخی تصاویر موجود نیست. <a data-modal="simple" data-target="failed-upload-result">بیشتر بخوانید.</a></div>
+				<div data-group="upload-result" data-result="error" class="soft-hidden margin-top-10 text-align-center upload-box-status-text">برای توضیحات بیشتر <a data-modal="simple" data-target="failed-upload-result">گزارش خطاها</a> را مطلعه کنید</div>
+			</div>
+
+        	<div class="upload-box-allowed-files position-absolute"><span class="phone-hide">jpg png bmp gif</span> <span>حداکثر 5 MB</span></div>
+			<div class="upload-box-close position-absolute">
+				<a data-action="close-upload" data-button="close-cancel"><span class="btn-icon icon-close"></span><span class="btn-text">بستن</span></a>
+				<a data-action="cancel-upload" data-button="close-cancel" class="soft-hidden"><span class="btn-icon icon-close"></span><span class="btn-text">لغو</span></a>
+				<a data-action="cancel-upload-remaining" data-button="close-cancel" class="soft-hidden"><span class="btn-icon icon-close"></span><span class="btn-text">لغو باقی مانده ها</span></a>
+			</div>
+            
+						<script>
+				$(document).ready(function() {
+					if(typeof CHV == "undefined") {
+						CHV = {obj: {}, fn: {}, str:{}};
+					} else {
+						if(typeof CHV.fn.uploader == "undefined") {
+							CHV.fn.uploader = {};
+						}
+					}
+					CHV.fn.uploader.embed_modes = {"links":{"label":"\u0644\u06cc\u0646\u06a9\u0647\u0627","options":{"viewer-links":{"label":"\u0644\u06cc\u0646\u06a9 \u0645\u0634\u0627\u0647\u062f\u0647","template":"%URL_VIEWER%","size":"viewer"},"direct-links":{"label":"\u0644\u06cc\u0646\u06a9 \u0645\u0633\u062a\u0642\u06cc\u0645","template":"%URL%","size":"full"}}},"html-codes":{"label":"\u06a9\u062f HTML","options":{"html-embed":{"label":"\u067e\u06cc\u0648\u0633\u062a HTML","template":"<img src=\"%URL%\" border=\"0\">","size":"full"},"html-embed-original":{"label":"\u06a9\u062f HTML \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0627\u0635\u0644\u06cc","template":"<a href=\"%URL_VIEWER%\"><img src=\"%URL%\" border=\"0\"><\/a>","size":"full"},"html-embed-medium":{"label":"\u06a9\u062f HTML \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637","template":"<a href=\"%URL_VIEWER%\"><img src=\"%MEDIUM_URL%\" border=\"0\"><\/a>","size":"medium"},"html-embed-thumbnail":{"label":"\u06a9\u062f HTML \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0628\u0646\u062f \u0627\u0646\u06af\u0634\u062a\u06cc","template":"<a href=\"%URL_VIEWER%\"><img src=\"%THUMB_URL%\" border=\"0\"><\/a>","size":"thumb"}}},"bbcodes":{"label":"BBCode \u0647\u0627","options":{"bbcode-embed":{"label":"BBCode \u067e\u06cc\u0648\u0633\u062a","template":"[img]%URL%[\/img]","size":"full"},"bbcode-embed-original":{"label":"\u06a9\u062f BBCode \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0627\u0635\u0644\u06cc","template":"[url=%URL_VIEWER%][img]%URL%[\/img][\/url]","size":"full"},"bbcode-embed-medium":{"label":"\u06a9\u062f BBCode \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637","template":"[url=%URL_VIEWER%][img]%MEDIUM_URL%[\/img][\/url]","size":"medium"},"bbcode-embed-thumbnail":{"label":"\u06a9\u062f BBCode \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0628\u0646\u062f\u0627\u0646\u06af\u0634\u062a\u06cc","template":"[url=%URL_VIEWER%][img]%THUMB_URL%[\/img][\/url]","size":"thumb"}}}};
+				});
+			</script>
+			<div data-group="upload-result" data-result="success" class="c14 center-box soft-hidden">
+				<div class="input-label margin-bottom-0">
+					<label for="uploaded-embed-toggle">کد های پیوست</label>
+					<div class="c7 margin-bottom-10">
+						<select name="uploaded-embed-toggle" id="uploaded-embed-toggle" class="text-input" data-combo="uploaded-embed-toggle-combo">
+							<optgroup label="لینکها">
+	<option value="viewer-links" data-size="viewer">لینک مشاهده</option>
+	<option value="direct-links" data-size="full">لینک مستقیم</option>
+</optgroup><optgroup label="کد HTML">
+	<option value="html-embed" data-size="full">پیوست HTML</option>
+	<option value="html-embed-original" data-size="full">کد HTML برای تصویر اصلی</option>
+	<option value="html-embed-medium" data-size="medium">کد HTML برای تصویر متوسط</option>
+	<option value="html-embed-thumbnail" data-size="thumb">کد HTML برای تصویر بند انگشتی</option>
+</optgroup><optgroup label="BBCode ها">
+	<option value="bbcode-embed" data-size="full">BBCode پیوست</option>
+	<option value="bbcode-embed-original" data-size="full">کد BBCode برای تصویر اصلی</option>
+	<option value="bbcode-embed-medium" data-size="medium">کد BBCode برای تصویر متوسط</option>
+	<option value="bbcode-embed-thumbnail" data-size="thumb">کد BBCode برای تصویر بندانگشتی</option>
+</optgroup>						</select>
+					</div>
+					<div id="uploaded-embed-toggle-combo">
+						<div data-combo-value="viewer-links" class="switch-combo">
+										<textarea class="r2" name="viewer-links" data-size="viewer"></textarea>
+									</div>
+<div data-combo-value="direct-links" class="switch-combo soft-hidden">
+										<textarea class="r2" name="direct-links" data-size="full"></textarea>
+									</div>
+<div data-combo-value="html-embed" class="switch-combo soft-hidden">
+										<textarea class="r2" name="html-embed" data-size="full"></textarea>
+									</div>
+<div data-combo-value="html-embed-original" class="switch-combo soft-hidden">
+										<textarea class="r2" name="html-embed-original" data-size="full"></textarea>
+									</div>
+<div data-combo-value="html-embed-medium" class="switch-combo soft-hidden">
+										<textarea class="r2" name="html-embed-medium" data-size="medium"></textarea>
+									</div>
+<div data-combo-value="html-embed-thumbnail" class="switch-combo soft-hidden">
+										<textarea class="r2" name="html-embed-thumbnail" data-size="thumb"></textarea>
+									</div>
+<div data-combo-value="bbcode-embed" class="switch-combo soft-hidden">
+										<textarea class="r2" name="bbcode-embed" data-size="full"></textarea>
+									</div>
+<div data-combo-value="bbcode-embed-original" class="switch-combo soft-hidden">
+										<textarea class="r2" name="bbcode-embed-original" data-size="full"></textarea>
+									</div>
+<div data-combo-value="bbcode-embed-medium" class="switch-combo soft-hidden">
+										<textarea class="r2" name="bbcode-embed-medium" data-size="medium"></textarea>
+									</div>
+<div data-combo-value="bbcode-embed-thumbnail" class="switch-combo soft-hidden">
+										<textarea class="r2" name="bbcode-embed-thumbnail" data-size="thumb"></textarea>
+									</div>
+					</div>
+				</div>
+			</div>
+			
+        </div>
+		
+    </div>
+	
+	<div class="hidden">
+		<div id="anywhere-upload-item-template">
+			<li>
+				<a class="block image-link" data-group="image-link" href="#file" target="_blank"></a>
+				<div class="result done block"><span class="icon icon-checkmark-circle"></span></div>
+				<div class="result failed block"><span class="icon icon-warning"></span></div>
+				<div class="load-url block"><span class="big-icon icon-url-loading"></span></div>
+				<div class="preview block"></div>
+				<div class="progress block">
+					<div class="progress-percent"><b data-text="progress-percent">0</b><span>%</span></div>
+					<div class="progress-bar" data-content="progress-bar"></div>
+				</div>
+				<div class="cancel" data-action="cancel"><span class="icon-cross4"></span></div>
+			</li>
+		</div>
+		<div id="anywhere-upload-paste-url" data-submit-fn="CHV.fn.uploader.paste_url">
+			<h1>افزودن آدرس تصویر</h1>
+			<div class="modal-form junkstr-tag-form r2">
+				<textarea placeholder="آدرس تصویر را اینجا وارد کنید" name="urls"></textarea>
+			</div>
+		</div>
+	</div>
+	
+		
+	<div data-modal="failed-upload-result" class="hidden">
+		<h1>گزارش خطا</h1>
+		<ul data-content="failed-upload-result" style="max-height: 115px;" class="overflow-auto"></ul>
+	</div>
+	
+</div>
+<!--googleon: index-->
+
+<div data-modal="login" class="hidden">
+	<h1>باید وارد شوید</h1>
+	<p>برای استفاده از این ویژگی باید قبلا در سایت وارد شده باشید. اگر در سایت ما حسابی ندارید همین الان <a href="http://www.xum.ir/signup">ثبت نام</a> کنید</p>
+	<div class="position-relative overflow-auto margin-top-20">
+		<div class="text-align-center hidden phone-show phablet-show">
+			<span class="title">وارد شدن با یک حساب دیگر</span>
+			<ul class="sign-services margin-top-10">
+</ul>
+			<div class="or-separator margin-top-30"><span class="separator">یا</span></div>
+		</div>
+		<div class="c6 phone-c1 phablet-c1 grid-columns">
+			<form method="post" action="http://www.xum.ir/login" data-prevent="false" data-beforeunload="continue">
+				<div class="input"><input type="text" class="text-input" name="login-subject" placeholder="نام کاربری یا آدرس ایمیل" autocomplete="off" required></div>
+				<div class="input"><input type="password" class="text-input" name="password" placeholder="رمز عبور" autocomplete="off" required><button type="submit" class="icon-input-submit"></button></div>
+				<div class="input">
+					<div class="checkbox-label margin-0 display-inline-block"><input type="checkbox" name="keep-login-modal" id="keep-login-modal"><label for="keep-login-modal">مرا بخاطر بسپار</label></div>
+					<div class="float-left"><a href="http://www.xum.ir/account/password-forgot">فراموش کردید؟</a></div>
+				</div>
+			</form>
+		</div>
+			</div>
+</div>
+
+<!--[if lte IE 7]><script src="http://www.xum.ir/lib/Peafowl/js/lte-ie7.js?73dfbb5700b11d1ed0a2816bf9e5b408"></script><![endif]-->
+<script src="http://www.xum.ir/lib/Peafowl/js/jquery.min.js?73dfbb5700b11d1ed0a2816bf9e5b408"></script>
+<script src="http://www.xum.ir/lib/Peafowl/js/scripts.js?73dfbb5700b11d1ed0a2816bf9e5b408"></script>
+<script>(function($,d){$.each(readyQ,function(i,f){$(f)});$.each(bindReadyQ,function(i,f){$(d).bind("ready",f)})})(jQuery,document)</script>
+<script src="http://www.xum.ir/lib/Peafowl/peafowl.js?73dfbb5700b11d1ed0a2816bf9e5b408"></script>
+<script src="http://www.xum.ir/app/lib/chevereto.js?73dfbb5700b11d1ed0a2816bf9e5b408"></script>
+
+<script>
+PF.obj.config.base_url = "http://www.xum.ir/";
+PF.obj.config.json_api = "http://www.xum.ir/json";
+PF.obj.config.listing.items_per_page = "12";
+PF.obj.config.auth_token = "c8d545d7452a76dd178c029dc2e339d0afa90f5a";
+
+PF.obj.l10n = {"":["Project-Id-Version: VERSION\nPOT-Creation-Date: 2014-05-30 22:09-0400\nPO-Revision-Date: 2014-06-20 14:00+0330\nLast-Translator: sajad <sajad2745@gmail.com>\nLanguage-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\nMIME-Version: 1.0\nContent-Type: text\/plain; charset=UTF-8\nContent-Transfer-Encoding: 8bit\nPlural-Forms: nplurals=1; plural=0;\n"],"\"Original\" will try to keep the image source name while \"Random\" will generate a random name. \"Mixed\" is a combination of both methods.":["\"Original\" \u0646\u0627\u0645 \u0627\u0635\u0644\u06cc \u0641\u0627\u06cc\u0644 \u0647\u0627 \u0631\u0627 \u0630\u062e\u06cc\u0631\u0647 \u0645\u06cc\u06a9\u0646\u062f.  \"Random\" \u06cc\u06a9 \u0646\u0627\u0645 \u062a\u0635\u0627\u062f\u0641\u06cc \u0628\u0647 \u0647\u0631 \u062a\u0635\u0648\u06cc\u0631 \u0627\u062e\u062a\u0635\u0627\u0635 \u0645\u06cc\u062f\u0647\u062f \u0648 \"Mixed\" \u062a\u0631\u06a9\u06cc\u0628\u06cc \u0627\u0632 \u0627\u06cc\u0646 \u062f\u0648 \u0627\u0633\u062a.  "],"%d characters min":["\u062d\u062f\u0627\u0642\u0644 %d \u06a9\u0627\u0631\u0627\u06a9\u062a\u0631"],"%d second":["%d \u062b\u0627\u0646\u06cc\u0647","%d \u062b\u0627\u0646\u06cc\u0647"],"%d seconds":["%d \u062b\u0627\u0646\u06cc\u0647","%d \u062b\u0627\u0646\u06cc\u0647"],"%i to %f characters<br>Letters, numbers and \"_\"":["\u06a9\u0627\u0631\u0627\u06a9\u062a\u0631 \u0647\u0627\u06cc %i \u062a\u0627 %f <br> \u062d\u0631\u0648\u0641 \u060c \u0627\u0639\u062f\u0627\u062f \u0648 \"_\""],"%s ago":["%s \u0642\u0628\u0644"],"%s has been disconnected.":["%s \u0645\u062a\u0635\u0644 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a"],"%s's Albums":["\u0622\u0644\u0628\u0648\u0645 \u0647\u0627\u06cc %s"],"%s's Images":["\u062a\u0635\u0627\u0648\u06cc\u0631 %s"],"%s's images":["%s \u0639\u06a9\u0633"],"A confirmation link will be sent to this email with details to activate your account.":["\u06cc\u06a9 \u0627\u06cc\u0645\u06cc\u0644 \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0647\u0645\u0631\u0627\u0647 \u0628\u0627 \u062c\u0632\u0626\u06cc\u0627\u062a \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0628\u0647 \u0627\u06cc\u0646 \u0627\u06cc\u0645\u06cc\u0644 \u0627\u0631\u0633\u0627\u0644 \u062e\u0648\u0627\u0647\u062f \u0634\u062f."],"A previous email has been sent with instructions to reset your password. If you did not receive the instructions try checking your junk or spam filters.":["\u0627\u06cc\u0645\u06cc\u0644 \u0642\u0628\u0644\u06cc \u0628\u0647\u0645\u0631\u0627\u0647 \u0631\u0627\u0647\u0646\u0645\u0627\u06cc\u06cc \u0647\u0627\u06cc \u0644\u0627\u0632\u0645 \u062c\u0647\u062a \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632\u062a\u0627\u0646 \u0628\u0647 \u0627\u06cc\u0645\u06cc\u0644\u062a\u0627\u0646 \u0627\u0631\u0633\u0627\u0644 \u0634\u062f. \u0627\u06af\u0631 \u0627\u06cc\u0645\u06cc\u0644 \u0631\u0627 \u0646\u0645\u06cc\u0628\u06cc\u0646\u06cc\u062f \u067e\u0648\u0634\u0647 \u06cc \u0627\u0633\u067e\u0645 \u062e\u0648\u062f \u0631\u0627 \u0628\u0631\u0631\u0633\u06cc \u06a9\u0646\u06cc\u062f."],"About":["\u062f\u0631\u0628\u0627\u0631\u0647"],"Account":["\u062d\u0633\u0627\u0628"],"Account already activated":["\u062d\u0633\u0627\u0628 \u0634\u0645\u0627 \u0641\u0639\u0627\u0644 \u0634\u062f."],"Account needs to be activated to use this feature":["\u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0627\u06cc\u0646 \u0648\u06cc\u0698\u06af\u06cc \u0628\u0627\u06cc\u062f \u062d\u0633\u0627\u0628 \u062e\u0648\u062f \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f."],"Action":["\u062d\u0633\u0627\u0628"],"Add a password to be able to login using your username or email.":["\u062c\u0647\u062a \u0648\u0631\u0648\u062f \u0628\u0627 \u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u06cc\u0627 \u0627\u06cc\u0645\u06cc\u0644 \u0628\u0627\u06cc\u062f \u06cc\u06a9 \u067e\u0633\u0648\u0631\u062f \u062a\u0639\u06cc\u06cc\u0646 \u06a9\u0646\u06cc\u062f."],"Add email":["\u0627\u0641\u0632\u0648\u062f\u0646 \u0627\u06cc\u0645\u06cc\u0644"],"Add image URLs":["\u0627\u0641\u0632\u0648\u062f\u0646 \u0622\u062f\u0631\u0633 \u062a\u0635\u0648\u06cc\u0631"],"Add the image URLs here":["\u0622\u062f\u0631\u0633 \u062a\u0635\u0648\u06cc\u0631 \u0631\u0627 \u0627\u06cc\u0646\u062c\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Add your email address":["\u0627\u06cc\u0645\u06cc\u0644 \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Added to %s":["\u0627\u0641\u0632\u0648\u062f\u0647 \u0634\u062f \u0628\u0647 %s"],"Administrator":["\u0645\u062f\u06cc\u0631 \u06a9\u0644 \u0633\u0627\u06cc\u062a"],"Album":["\u0622\u0644\u0628\u0648\u0645","\u0622\u0644\u0628\u0648\u0645"],"Albums":["\u0622\u0644\u0628\u0648\u0645 \u0647\u0627"],"Album ID":["\u0634\u0646\u0627\u0633\u0647 \u0622\u0644\u0628\u0648\u0645"],"Album Privacy":["\u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u0622\u0644\u0628\u0648\u0645"],"Album edited successfully.":["\u0622\u0644\u0628\u0648\u0645 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0648\u06cc\u0631\u0627\u06cc\u0634 \u0634\u062f."],"Album link":["\u0644\u06cc\u0646\u06a9 \u0622\u0644\u0628\u0648\u0645"],"Album name":["\u0646\u0627\u0645 \u0622\u0644\u0628\u0648\u0645"],"Album page":["\u0635\u0641\u062d\u0647 \u0622\u0644\u0628\u0648\u0645"],"All the changes that you have made will be lost if you continue.":["\u062a\u0645\u0627\u0645\u06cc \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a\u06cc \u06a9\u0647 \u0627\u0639\u0645\u0627\u0644 \u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u062f \u062f\u0631 \u0635\u0648\u0631\u062a \u0627\u062f\u0627\u0645\u0647 \u0627\u0632 \u0628\u06cc\u0646 \u0645\u06cc\u0631\u0648\u0646\u062f"],"All the images will be moved to this newly created album. You can also move the images to an <a class=\"modal-switch\" data-switch=\"move-existing-album\">existing album<\/a>.":["\u062a\u0645\u0627\u0645\u06cc \u062a\u0635\u0627\u0648\u06cc\u0631 \u0628\u0647 \u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f \u0645\u0646\u062a\u0642\u0644 \u062e\u0648\u0627\u0647\u0646\u062f \u0634\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u062a\u0635\u0627\u0648\u06cc\u0631\u062a\u0627\u0646 \u0631\u0627 \u062f\u0631 <a class=\"modal-switch\" data-switch=\"move-existing-album\">\u0622\u0644\u0628\u0648\u0645 \u0647\u0627\u06cc \u0642\u0628\u0644\u06cc<\/a> \u0642\u0631\u0627\u0631 \u062f\u0647\u06cc\u062f."],"Allow up to 15 minutes for the email. You can try again later.":["\u062d\u062f\u0627\u0642\u0644 15 \u062f\u0642\u06cc\u0642\u0647 \u062a\u0627 \u062f\u0631\u06cc\u0627\u0641\u062a \u0627\u06cc\u0645\u06cc\u0644 . \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0639\u062f\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u0627\u0645\u062a\u062d\u0627\u0646 \u06a9\u0646\u06cc\u062f."],"Alternatively you can copy and paste the URL into your browser: <a href=\"%s\">%s<\/a>":["\u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0622\u062f\u0631\u0633 \u0645\u0642\u0627\u0628\u0644 \u0631\u0627 \u062f\u0631 \u0645\u0631\u0648\u0631\u06af\u0631 \u062e\u0648\u062f \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f :  <a href=\"%s\">%s<\/a>"],"An email has been sent to %s with instructions to activate this email":["\u0627\u06cc\u0645\u06cc\u0644\u06cc \u0628\u0647 %s \u062c\u0647\u062a \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0627\u06cc\u0646 \u0627\u06cc\u0645\u06cc\u0644 \u0622\u062f\u0631\u0633 \u0627\u0631\u0633\u0627\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a."],"An email to %s has been sent with instructions to activate your account. The activation link is only valid for 48 hours. If you don't receive the instructions try checking your junk or spam filters.":["\u0627\u06cc\u0645\u06cc\u0644\u06cc \u0628\u0647 %s \u0628\u0647\u0645\u0631\u0627\u0647 \u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u062c\u0647\u062a \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u062d\u0633\u0627\u0628 \u0634\u0645\u0627 \u0627\u0631\u0633\u0627\u0644 \u0634\u062f. \u0627\u06cc\u0646 \u0627\u06cc\u0645\u06cc\u0644 \u062a\u0627 48 \u0633\u0627\u0639\u062a \u0622\u06cc\u0646\u062f\u0647 \u0645\u0639\u062a\u0628\u0631 \u0627\u0633\u062a. \u062f\u0631 \u0635\u0648\u0631\u062a\u06cc \u06a9\u0647 \u0622\u0646 \u0631\u0627 \u062f\u0631\u06cc\u0627\u0641\u062a \u0646\u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u062f \u067e\u0648\u0634\u0647 \u06cc \u0627\u0633\u067e\u0645 \u0627\u06cc\u0645\u06cc\u0644 \u062e\u0648\u062f \u0631\u0627 \u0686\u06a9 \u06a9\u0646\u06cc\u062f."],"An email to %s has been sent with instructions to activate your account.n\\If you don't receive the instructions try checking your junk or spam filters.":["\u0627\u06cc\u0645\u06cc\u0644\u06cc \u0628\u0647\u0645\u0631\u0627\u0647 \u0631\u0627\u0647\u0646\u0645\u0627\u06cc\u06cc \u0647\u0627\u06cc \u0644\u0627\u0632\u0645 \u062c\u0647\u062a \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u062d\u0633\u0627\u0628\u062a\u0627\u0646 \u0628\u0647 %s \u0627\u0631\u0633\u0627\u0644 \u0634\u062f. n\\\\ \u0627\u06af\u0631 \u0627\u06cc\u0645\u06cc\u0644 \u0631\u0627 \u0646\u0645\u06cc\u0628\u06cc\u0646\u06cc\u062f \u067e\u0648\u0634\u0647 \u06cc \u0627\u0633\u067e\u0645 \u0631\u0627 \u0686\u06a9 \u06a9\u0646\u06cc\u062f."],"An email with instructions to reset your password has been sent to the registered email address. If you don't receive the instructions try checking your junk or spam filters.":["\u0627\u06cc\u0645\u06cc\u0644\u06cc \u0628\u0647\u0645\u0631\u0627\u0647 \u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u062f\u0631 \u0645\u0648\u0631\u062f \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0634\u0645\u0627 \u0628\u0647 \u0627\u06cc\u0645\u06cc\u0644 \u062b\u0628\u062a \u0634\u062f\u0647 \u06cc \u062d\u0633\u0627\u0628\u062a\u0627\u0646 \u0627\u0631\u0633\u0627\u0644 \u0634\u062f. \u062f\u0631 \u0635\u0648\u0631\u062a\u06cc \u06a9\u0647 \u0627\u06cc\u0645\u06cc\u0644 \u0631\u0627 \u0646\u0645\u06cc\u0628\u06cc\u0646\u06cc\u062f \u067e\u0648\u0634\u0647 \u06cc \u0627\u0633\u067e\u0645 \u0627\u06cc\u0645\u06cc\u0644 \u0631\u0627 \u0686\u06a9 \u06a9\u0646\u06cc\u062f."],"An error occurred. Please try again later.":["\u062e\u0637\u0627\u06cc\u06cc \u067e\u06cc\u0634 \u0622\u0645\u062f\u0647. \u0644\u0637\u0641\u0627 \u0628\u0639\u062f\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u062a\u0644\u0627\u0634 \u06a9\u0646\u06cc\u062f."],"Analytics code":["\u06a9\u062f \u0622\u0645\u0627\u0631\u06af\u06cc\u0631"],"Auto language":["\u0627\u0646\u062a\u062e\u0627\u0628 \u062e\u0648\u062f\u06a9\u0627\u0631 \u0632\u0628\u0627\u0646"],"Awaiting confirmation":["\u062f\u0631 \u0627\u0646\u062a\u0638\u0627\u0631 \u062a\u0627\u06cc\u06cc\u062f \u0627\u06cc\u0645\u06cc\u0644"],"Awaiting email":["\u062f\u0631 \u0627\u0646\u062a\u0638\u0627\u0631 \u0627\u06cc\u0645\u06cc\u0644"],"BBCode embed":["BBCode \u067e\u06cc\u0648\u0633\u062a"],"BBCode medium linked":["\u06a9\u062f BBCode \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637"],"BBCode original linked":["\u06a9\u062f BBCode \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0627\u0635\u0644\u06cc"],"BBCode thumbnail linked":["\u06a9\u062f BBCode \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0628\u0646\u062f\u0627\u0646\u06af\u0634\u062a\u06cc"],"BBCodes":["BBCode \u0647\u0627"],"Banned":["\u0627\u062e\u0631\u0627\u062c \u0634\u062f\u0647"],"Banners":["\u0628\u0646\u0631 \u0647\u0627"],"Bitmap version or your website logo. PNG format is recommended.":["\u0644\u0648\u06af\u0648 \u0627\u0635\u0644\u06cc \u0648\u0628\u0633\u0627\u06cc\u062a \u0634\u0645\u0627 \u062f\u0631 \u0641\u0631\u0645\u062a png"],"Block image uploads by IP if the system notice a flood  behavior based on the number of uploads per time period. This setting doesn't affect administrators.":["\u0628\u0644\u0648\u06a9\u0647 \u06a9\u0631\u062f\u0646 \u0622\u067e\u0644\u0648\u062f \u062a\u0635\u0627\u0648\u06cc\u0631 \u0627\u0632 \u06cc\u06a9 \u0622\u06cc\u067e\u06cc \u062e\u0627\u0635 \u0647\u0646\u06af\u0627\u0645\u06cc \u0627\u0633\u062a \u06a9\u0647 \u0633\u06cc\u0633\u062a\u0645 \u062a\u0634\u062e\u06cc\u0635 \u062d\u0645\u0644\u0627\u062a \u0627\u0632 \u06cc\u06a9 \u0622\u06cc\u067e\u06cc \u0631\u0627 \u0645\u06cc\u062f\u0647\u062f. \u0627\u06cc\u0646 \u062a\u0646\u0638\u06cc\u0645 \u0628\u0631 \u0645\u062f\u06cc\u0631\u06cc\u062a \u0633\u0627\u06cc\u062a \u062a\u0627\u062b\u06cc\u0631\u06cc \u0646\u062f\u0627\u0631\u062f."],"Brief description of this image":["\u062a\u0648\u0636\u06cc\u062d \u0645\u062e\u062a\u0635\u0631\u06cc \u062f\u0631 \u0645\u0648\u0631\u062f \u062a\u0635\u0648\u06cc\u0631 \u0628\u0646\u0648\u06cc\u0633\u06cc\u062f"],"By signing up you agree to our <a href=\"%s\">Terms of service<\/a>":["\u0628\u0627 \u0639\u0636\u0648\u06cc\u062a \u062e\u0648\u062f \u062a\u0627\u06cc\u06cc\u062f \u0645\u06cc\u06a9\u0646\u06cc\u062f \u06a9\u0647 \u0628\u0627 <a href=\"%s\">\u0634\u0631\u0627\u06cc\u0637 \u0633\u0631\u0648\u06cc\u0633 \u062f\u0647\u06cc<\/a> \u0645\u0627 \u0645\u0648\u0627\u0641\u0642\u06cc\u062f"],"By the way, here is you very own awesome profile page: <a href=\"%u\">%n<\/a>. Go ahead and customize it, is yours!.":["\u062d\u0627\u0644\u0627 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u0634\u0645\u0627 \u0622\u0645\u0627\u062f\u0647 \u0627\u0633\u062a :<a href=\"%u\">%n<\/a>. \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0622\u0646 \u0631\u0627 \u0628\u0647 \u0633\u0644\u06cc\u0642\u0647 \u06cc \u062e\u0648\u062f \u0648\u06cc\u0631\u0627\u06cc\u0634 \u06a9\u0646\u06cc\u062f!"],"Change background":["\u062a\u063a\u06cc\u06cc\u0631 \u067e\u0633 \u0632\u0645\u06cc\u0646\u0647"],"Changes have been saved.":["\u062a\u063a\u06cc\u06cc\u0631\u0627\u062a \u0630\u062e\u06cc\u0631\u0647 \u0634\u062f\u0646\u062f."],"Changes saved successfully.":["\u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0630\u062e\u06cc\u0631\u0647 \u0634\u062f\u0646\u062f."],"Check the <a data-modal=\"simple\" data-target=\"failed-upload-result\">error report<\/a> for more information.":["\u0628\u0631\u0627\u06cc \u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0628\u06cc\u0634\u062a\u0631 <a data-modal=\"simple\" data-target=\"failed-upload-result\">\u06af\u0632\u0627\u0631\u0634 \u062e\u0637\u0627\u0647\u0627<\/a> \u0631\u0627 \u0645\u0637\u0644\u0639\u0647 \u06a9\u0646\u06cc\u062f"],"Check the errors in the form before continuing.":["\u062e\u0637\u0627\u0647\u0627\u06cc \u0627\u06cc\u0646 \u0641\u0631\u0645 \u0631\u0627 \u0642\u0628\u0644 \u0627\u0632 \u0627\u062f\u0627\u0645\u0647 \u0628\u0631\u0631\u0633\u06cc \u06a9\u0646\u06cc\u062f"],"Check the errors in the form to continue.":["\u062e\u0637\u0627\u0647\u0627\u06cc \u0627\u06cc\u0646 \u0641\u0631\u0645 \u0631\u0627 \u0628\u0631\u0631\u0633\u06cc \u06a9\u0646\u06cc\u062f"],"Check the errors to proceed.":["\u0628\u0631\u0627\u06cc \u0627\u062f\u0627\u0645\u0647 \u062e\u0637\u0627 \u0647\u0627 \u0631\u0627 \u0631\u0641\u0639 \u06a9\u0646\u06cc\u062f"],"Chevereto version":["\u0646\u0633\u062e\u0647 \u06cc \u0646\u0631\u0645 \u0627\u0641\u0632\u0627\u0631"],"Clear selection":["\u0639\u062f\u0645 \u0627\u0646\u062a\u062e\u0627\u0628"],"Comment code":["\u06a9\u062f \u0646\u0638\u0631\u0627\u062a"],"Confirm":["\u062a\u0627\u06cc\u06cc\u062f"],"Confirm action":["\u062a\u0627\u06cc\u06cc\u062f"],"Confirm deletion":["\u062a\u0627\u06cc\u06cc\u062f \u062d\u0630\u0641"],"Confirm new password":["\u062a\u0627\u06cc\u06cc\u062f \u0631\u0645\u0632 \u0639\u0628\u0648\u0631"],"Confirm password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0631\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Confirmation required at %s":["\u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0645\u0648\u0631\u062f \u0646\u06cc\u0627\u0632 \u0627\u0633\u062a \u062f\u0631 %s"],"Connect %s":["\u0627\u062a\u0635\u0627\u0644 \u0628\u0647 %s"],"Contact":["\u062a\u0645\u0627\u0633 \u0628\u0627 \u0645\u0627"],"Content added to <a data-text=\"upload-target\" data-link=\"upload-target\" href=\"%s\">public stream<\/a>. You can <a data-modal=\"form\" data-target=\"form-uploaded-create-album\">create an album<\/a> or <a data-modal=\"form\" data-target=\"form-uploaded-move-album\">move the <span data-text=\"queue-objects\">images<\/span><\/a> to an existing album.":["\u062a\u0635\u0648\u06cc\u0631 \u0628\u0647 <a data-text=\"upload-target\" data-link=\"upload-target\" href=\"%s\">\u0645\u062d\u062a\u0648\u0627\u06cc \u0639\u0645\u0648\u0645\u06cc<\/a> \u0627\u0636\u0627\u0641\u0647 \u0634\u062f. \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f <a data-modal=\"form\" data-target=\"form-uploaded-create-album\">\u06cc\u06a9 \u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f \u0628\u0633\u0627\u0632\u06cc\u062f <\/a> \u06cc\u0627 <a data-modal=\"form\" data-target=\"form-uploaded-move-album\"> \u0627\u0646\u062a\u0642\u0627\u0644 \u062f\u0647\u06cc\u062f <span data-text=\"queue-objects\">\u062a\u0635\u0627\u0648\u06cc\u0631<\/span><\/a> \u0631\u0627 \u0628\u0647 \u0622\u0644\u0628\u0648\u0645 \u0647\u0627\u06cc \u0642\u0628\u0644\u06cc."],"Create account":["\u062b\u0628\u062a \u0646\u0627\u0645"],"Create album":["\u0633\u0627\u062e\u062a \u0622\u0644\u0628\u0648\u0645"],"Crypt salt":["Crypt salt"],"Current password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0641\u0639\u0644\u06cc"],"Custom CSS code":["\u06a9\u062f css \u0634\u062e\u0635\u06cc"],"Custom JS code":["\u062c\u0627\u0648\u0627 \u0627\u0633\u06a9\u0631\u06cc\u067e\u062a \u0634\u062e\u0635\u06cc"],"DMCA complaint":["\u0634\u06a9\u0627\u06cc\u062a \u0627\u0632 \u0646\u0642\u0636 \u062d\u0642\u0648\u0642 \u0645\u0639\u0646\u0648\u06cc"],"Daily limit":["\u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u0622\u067e\u0644\u0648\u062f \u062f\u0631 \u0631\u0648\u0632"],"Dashboard":["\u067e\u06cc\u0634\u062e\u0648\u0627\u0646"],"Datefolders":["\u067e\u0648\u0634\u0647 \u0628\u0646\u062f\u06cc \u0628\u0631 \u0627\u0633\u0627\u0633 \u0632\u0645\u0627\u0646"],"Datefolders creates %s structure":["\u067e\u0648\u0634\u0647 \u0628\u0646\u062f\u06cc \u0628\u0631 \u0627\u0633\u0627\u0633 \u0632\u0645\u0627\u0646 \u0633\u0627\u062e\u062a\u0627\u0631 %s \u0631\u0627 \u062a\u0648\u0644\u06cc\u062f \u0645\u06cc\u06a9\u0646\u0646\u062f"],"Default base language to use.":["\u0632\u0628\u0627\u0646 \u0627\u0635\u0644\u06cc \u0645\u0648\u0631\u062f \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u062f\u0631 \u0646\u0631\u0645 \u0627\u0641\u0632\u0627\u0631."],"Default language":["\u0632\u0628\u0627\u0646 \u0627\u0635\u0644\u06cc"],"Default time zone":["\u0645\u0646\u0637\u0642\u0647 \u0632\u0645\u0627\u0646\u06cc \u0627\u0635\u0644\u06cc"],"Delete":["\u062d\u0630\u0641"],"Delete album":["\u062d\u0630\u0641 \u0622\u0644\u0628\u0648\u0645"],"Delete background":["\u062d\u0630\u0641 \u067e\u0633 \u0632\u0645\u06cc\u0646\u0647"],"Delete existing image":["\u062d\u0630\u0641 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0645\u0648\u062c\u0648\u062f"],"Delete image":["\u062d\u0630\u0641 \u062a\u0635\u0648\u06cc\u0631"],"Delete user":["\u062d\u0630\u0641 \u06a9\u0627\u0631\u0628\u0631"],"Direct":["\u0645\u0633\u062a\u0642\u06cc\u0645"],"Direct links":["\u0644\u06cc\u0646\u06a9 \u0645\u0633\u062a\u0642\u06cc\u0645"],"Disabled":["\u063a\u06cc\u0631\u0641\u0639\u0627\u0644"],"Disk used":["\u0641\u0636\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0634\u062f\u0647"],"Disqus, Facebook or anything you want. It will be used in image view.":["\u062f\u06cc\u06a9\u0627\u0633 \u060c \u0641\u06cc\u0633\u0628\u0648\u06a9 \u0648 \u06cc\u0627 \u0647\u0631 \u0686\u06cc\u0632\u06cc \u06a9\u0647 \u0634\u0645\u0627 \u0645\u0627\u06cc\u0644 \u0628\u0627\u0634\u06cc\u062f. \u0627\u06cc\u0646 \u062f\u0631 \u0642\u0633\u0645\u062a \u0646\u0645\u0627\u06cc\u0634 \u062a\u0635\u0648\u06cc\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u0634\u0648\u062f."],"Do you really want to delete this album and all of its images? This can't be undone.":["\u0622\u06cc\u0627 \u0646\u0633\u0628\u062a \u0628\u0647 \u062d\u0630\u0641 \u0627\u06cc\u0646 \u0622\u0644\u0628\u0648\u0645 \u0648 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0622\u0646 \u0645\u0637\u0645\u0626\u0646 \u0647\u0633\u062a\u06cc\u062f\u061f \u0627\u06cc\u0646 \u0639\u0645\u0644 \u063a\u06cc\u0631\u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06af\u0634\u062a \u0627\u0633\u062a."],"Do you really want to delete this image? This can't be undone.":["\u0648\u0627\u0642\u0639\u0627 \u0646\u0633\u0628\u062a \u0628\u0647 \u062d\u0630\u0641 \u0627\u06cc\u0646 \u062a\u0635\u0648\u06cc\u0631 \u0645\u0637\u0645\u0626\u0646\u06cc\u062f\u061f \u0627\u06cc\u0646 \u0639\u0645\u0644 \u063a\u06cc\u0631\u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06af\u0634\u062a \u0627\u0633\u062a."],"Do you really want to delete this user? This can't be undone.":["\u0646\u0633\u0628\u062a \u0628\u0647 \u062d\u0630\u0641 \u0627\u06cc\u0646 \u06a9\u0627\u0631\u0628\u0631 \u0645\u0637\u0645\u0626\u0646 \u0647\u0633\u062a\u06cc\u062f\u061f \u0627\u06cc\u0646 \u0639\u0645\u0644 \u063a\u06cc\u0631\u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06af\u0634\u062a \u0627\u0633\u062a."],"Do you really want to disconnect %s from this account?":["\u0622\u06cc\u0627 \u0646\u0633\u0628\u062a \u0628\u0647 \u0642\u0637\u0639 \u0627\u062a\u0635\u0627\u0644 %s \u0627\u0632 \u0627\u06cc\u0646 \u062d\u0633\u0627\u0628 \u0645\u0637\u0645\u0626\u0646\u06cc\u062f\u061f"],"Do you really want to disconnect your %s account?":["\u0622\u06cc\u0627 \u0646\u0633\u0628\u062a \u0628\u0647 \u0642\u0637\u0639 \u0627\u0631\u062a\u0628\u0627\u0637 %s \u0628\u0647 \u062d\u0633\u0627\u0628 \u062e\u0648\u062f \u0645\u0637\u0645\u0626\u0646\u06cc\u062f\u061f"],"Do you really want to remove all the selected content? This can't be undone.":["\u0622\u06cc\u0627 \u0646\u0633\u0628\u062a \u0628\u0647 \u062d\u0630\u0641 \u062a\u0645\u0627\u0645\u06cc \u0627\u0646\u062a\u062e\u0627\u0628 \u0634\u062f\u0647 \u0647\u0627 \u0645\u0637\u0645\u0626\u0646 \u0647\u0633\u062a\u06cc\u062f\u061f \u0627\u06cc\u0646 \u0639\u0645\u0644 \u063a\u06cc\u0631 \u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06af\u0634\u062a \u0627\u0633\u062a."],"Do you really want to remove this content? This can't be undone.":["\u0622\u06cc\u0627 \u0646\u0633\u0628\u062a \u0628\u0647 \u062d\u0630\u0641 \u0627\u06cc\u0646 \u0645\u062d\u062a\u0648\u0627 \u0645\u0637\u0645\u0626\u0646 \u0647\u0633\u062a\u06cc\u062f\u061f \u0627\u06cc\u0646 \u0639\u0645\u0644 \u063a\u06cc\u0631 \u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06af\u0634\u062a \u0627\u0633\u062a."],"Don't have an account? <a href='%s'>Sign up<\/a> now.":["\u062f\u0631 \u0633\u0627\u06cc\u062a \u0645\u0627 \u0639\u0636\u0648 \u0646\u06cc\u0633\u062a\u06cc\u062f\u061f \u0647\u0645\u06cc\u0646 \u0627\u0644\u0627\u0646 <a href='%s'>\u062b\u0628\u062a \u0646\u0627\u0645<\/a> \u06a9\u0646\u06cc\u062f."],"Drag and drop images here to upload":["\u0628\u0631\u0627\u06cc \u0622\u067e\u0644\u0648\u062f \u0639\u06a9\u0633 \u0647\u0627 \u0622\u0646\u0647\u0627 \u0631\u0627 \u0628\u0647 \u0627\u06cc\u0646\u062c\u0627 \u0628\u06a9\u0634\u06cc\u062f \u0648 \u0631\u0647\u0627 \u06a9\u0646\u06cc\u062f."],"Edit":["\u0648\u06cc\u0631\u0627\u06cc\u0634"],"Edit album details":["\u0648\u06cc\u0631\u0627\u06cc\u0634 \u062c\u0632\u0626\u06cc\u0627\u062a \u0622\u0644\u0628\u0648\u0645"],"Edit image details":["\u0648\u06cc\u0631\u0627\u06cc\u0634 \u062c\u0632\u0626\u06cc\u0627\u062a \u062a\u0635\u0648\u06cc\u0631"],"Edit profile":["\u0648\u06cc\u0631\u0627\u06cc\u0634 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644"],"Email":["\u0627\u06cc\u0645\u06cc\u0644"],"Email address":["\u0622\u062f\u0631\u0633 \u0627\u06cc\u0645\u06cc\u0644"],"Email already being used":["\u0627\u06cc\u0645\u06cc\u0644 \u062f\u0631 \u062d\u0627\u0644 \u062d\u0627\u0636\u0631 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a."],"Email changed":["\u0627\u06cc\u0645\u06cc\u0644 \u062a\u063a\u06cc\u06cc\u0631 \u06a9\u0631\u062f."],"Email mode":["\u0631\u0648\u0634 \u0627\u0631\u0633\u0627\u0644 \u0627\u06cc\u0645\u06cc\u0644"],"Embed codes":["\u06a9\u062f \u0647\u0627\u06cc \u067e\u06cc\u0648\u0633\u062a"],"Enable download button":["\u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u062f\u06a9\u0645\u0647 \u062f\u0627\u0646\u0644\u0648\u062f"],"Enable signups":["\u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0639\u0636\u0648\u06cc\u062a"],"Enable this if you are using Cloudflare.":["\u062f\u0631 \u0635\u0648\u0631\u062a\u06cc \u06a9\u0647 \u0627\u0632 cloudflare \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u06a9\u0646\u06cc\u062f \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f"],"Enable this if you need to debug PHP errors.":["\u0628\u0631\u0627\u06cc \u0645\u0634\u0627\u0647\u062f\u0647 \u062e\u0637\u0627\u0647\u0627\u06cc \u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc \u0648 \u0631\u0641\u0639 \u0627\u0634\u06a9\u0627\u0644 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f."],"Enable this if you want to allow image uploads. This setting doesn't affect administrators.":["\u062c\u0647\u062a \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u0641\u0627\u06cc\u0644 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f. \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0628\u0631 \u0645\u062f\u06cc\u0631\u06cc\u062a \u0633\u0627\u06cc\u062a \u062a\u0627\u062b\u06cc\u0631 \u0646\u0645\u06cc\u06af\u0630\u0627\u0631\u062f."],"Enable this if you want to allow non registered users to upload.":["\u0628\u0631\u0627\u06cc \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0622\u067e\u0644\u0648\u062f \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u063a\u06cc\u0631 \u0639\u0636\u0648 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f."],"Enable this if you want to allow the explore page.":["\u0628\u0631\u0627\u06cc \u0646\u0645\u0627\u06cc\u0634 \u0635\u0641\u062d\u0647 \u067e\u0648\u06cc\u0634 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f"],"Enable this if you want to allow users to signup.":["\u0628\u0631\u0627\u06cc \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0639\u0636\u0648\u06cc\u062a \u06a9\u0627\u0631\u0628\u0631\u0627\u0646 \u062c\u062f\u06cc\u062f \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f"],"Enable this if you want to automatically set the right language for the user.":["\u0627\u06af\u0631 \u0645\u06cc\u062e\u0648\u0627\u0647\u06cc\u062f \u0628\u0647 \u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u0632\u0628\u0627\u0646 \u0635\u062d\u06cc\u062d \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631 \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0634\u0648\u062f \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f."],"Enable this if you want to show the image download button.":["\u0628\u0631\u0627\u06cc \u0646\u0645\u0627\u06cc\u0634 \u062f\u06a9\u0645\u0647 \u062f\u0627\u0646\u0644\u0648\u062f \u062a\u0635\u0627\u0648\u06cc\u0631 \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f"],"Enable this to put a logo or anything you want in image uploads.":["\u0628\u0631\u0627\u06cc \u0627\u0636\u0627\u0641\u0647 \u06a9\u0631\u062f\u0646 \u0644\u0648\u06af\u0648 \u0648 \u06cc\u0627 \u0647\u0631 \u0686\u06cc\u0632\u06cc \u062f\u0631 \u0639\u06a9\u0633 \u0647\u0627\u06cc \u0622\u067e\u0644\u0648\u062f \u0634\u062f\u0647"],"Enable uploads":["\u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc"],"Enable vector logo":["\u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0644\u0648\u06af\u0648 \u0628\u0631\u062f\u0627\u0631\u06cc"],"Enable vector logo for high quality logo in devices with high pixel density.":["\u0628\u0631\u0627\u06cc \u0646\u0645\u0627\u06cc\u0634 \u0644\u0648\u06af\u0648 \u0628\u0627 \u06a9\u06cc\u0641\u06cc\u062a \u0628\u0627\u0644\u0627 \u0644\u0648\u06af\u0648 \u0628\u0631\u062f\u0627\u0631\u06cc \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f"],"Enable watermark":["\u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9"],"Enabled":["\u0641\u0639\u0627\u0644"],"Enter the email address that you used to create your account to continue.":["\u0627\u06cc\u0645\u06cc\u0644 \u0622\u062f\u0631\u0633\u06cc \u06a9\u0647 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u062d\u0633\u0627\u0628 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u062f \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f."],"Enter the new password that you want to use.":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f\u06cc \u06a9\u0647 \u0645\u06cc\u062e\u0648\u0627\u0647\u06cc\u062f \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0646\u06cc\u062f \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f."],"Enter your current password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0641\u0639\u0644\u06cc \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Enter your new password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Enter your password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062e\u0648\u062f \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Enter your username or the email address that you used to create your account.":["\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0648 \u0627\u06cc\u0645\u06cc\u0644 \u0622\u062f\u0631\u0633\u06cc \u06a9\u0647 \u0628\u0631\u0627\u06cc \u0633\u0627\u062e\u062a \u062d\u0633\u0627\u0628\u062a\u0627\u0646 \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u062f \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f."],"Error deleting profile background image.":["\u062e\u0637\u0627 \u062f\u0631 \u0647\u0646\u06af\u0627\u0645 \u062d\u0630\u0641 \u062a\u0635\u0648\u06cc\u0631 \u067e\u0633 \u0632\u0645\u06cc\u0646\u0647."],"Error report":["\u06af\u0632\u0627\u0631\u0634 \u062e\u0637\u0627"],"Error reporting":["\u06af\u0632\u0627\u0631\u0634 \u062e\u0637\u0627 \u0647\u0627"],"Existing album":["\u0622\u0644\u0628\u0648\u0645 \u0645\u0648\u062c\u0648\u062f"],"Explore":["\u067e\u0648\u06cc\u0634"],"Explore page":["\u0635\u0641\u062d\u0647 \u067e\u0648\u06cc\u0634"],"External services":["\u0633\u0631\u0648\u06cc\u0633 \u0647\u0627\u06cc \u062e\u0627\u0631\u062c\u06cc"],"Facebook app id":["\u0634\u0646\u0627\u0633\u0647 \u06cc \u0627\u067e \u0641\u06cc\u0633\u0628\u0648\u06a9"],"Facebook app secret":["\u06a9\u062f \u0627\u0645\u0646\u06cc\u062a\u06cc \u0627\u067e \u0641\u06cc\u0633\u0628\u0648\u06a9"],"Favicon image":["\u062a\u0635\u0648\u06cc\u0631 \u0641\u0627\u0648 \u0622\u06cc\u06a9\u0648\u0646"],"Favicon image. Image must have same width and height.":["\u062a\u0635\u0648\u06cc\u0631 \u0641\u0627\u0648 \u0622\u06cc\u06a9\u0648\u0646 \u0628\u0627\u06cc\u062f \u0627\u0631\u062a\u0641\u0627\u0639 \u0648 \u0639\u0631\u0636 \u06cc\u06a9\u0633\u0627\u0646 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u062f."],"File naming method":["\u0634\u06cc\u0648\u0647 \u0646\u0627\u0645\u06af\u0630\u0627\u0631\u06cc \u0641\u0627\u06cc\u0644\u0647\u0627"],"File too big.":["\u0641\u0627\u06cc\u0644 \u0628\u0633\u06cc\u0627\u0631 \u0628\u0632\u0631\u06af \u0627\u0633\u062a."],"File uploads":["\u0641\u0627\u06cc\u0644 \u0622\u067e\u0644\u0648\u062f \u0634\u062f\u0647"],"Fill this section uploading pictures to %s account.<br>You can edit the target user in your dashboard settings.":["\u067e\u0631 \u06a9\u0631\u062f\u0646 \u0627\u06cc\u0646 \u0642\u0633\u0645\u062a \u062a\u0635\u0627\u0648\u06cc\u0631 \u0631\u0627 \u062f\u0631 \u062d\u0633\u0627\u0628 %s \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u0645\u06cc\u06a9\u0646\u062f. <br\/>\u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u06a9\u0627\u0631\u0628\u0631 \u0647\u062f\u0641 \u0631\u0627 \u062f\u0631 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u067e\u06cc\u0634\u062e\u0648\u0627\u0646 \u062e\u0648\u062f \u0645\u062f\u06cc\u0631\u06cc\u062a \u06a9\u0646\u06cc\u062f."],"Flood protection":["\u0645\u062d\u0627\u0641\u0638\u062a \u0627\u0632 \u062d\u0645\u0644\u0627\u062a"],"Forgot your password?":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062e\u0648\u062f \u0631\u0627 \u0641\u0631\u0627\u0645\u0648\u0634 \u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u062f\u061f"],"From %a by %u":["\u0627\u0632 %a \u062a\u0648\u0633\u0637 %u"],"From %s":["\u0627\u0632 %s"],"From email address":["\u0627\u06cc\u0645\u06cc\u0644 \u0622\u062f\u0631\u0633"],"From name":["\u0646\u0627\u0645 "],"Full info":["\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u06a9\u0627\u0645\u0644"],"GD Library":["GD Library"],"General questions\/comments":["\u0646\u0638\u0631\u0627\u062a \/ \u0633\u0648\u0627\u0644\u0627\u062a \u0627\u0635\u0644\u06cc"],"Go back to form":["\u0628\u0627\u0632\u06af\u0634\u062a \u0628\u0647 \u0641\u0631\u0645"],"Go to homepage":["\u0631\u0641\u062a\u0646 \u0628\u0647 \u0635\u0641\u062d\u0647 \u06cc \u0627\u0635\u0644\u06cc"],"Go to my profile":["\u0628\u0647 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u062e\u0648\u062f \u0628\u0631\u0648\u06cc\u062f"],"Google Analytics or anything you want. It will be added to the theme footer.":["\u06af\u0648\u06af\u0644 \u0622\u0646\u0627\u0644\u06cc\u062a\u06cc\u06a9\u0633 \u06cc\u0627 \u0647\u0631 \u0686\u06cc\u0632 \u062f\u06cc\u06af\u0631\u06cc \u06a9\u0647 \u0634\u0645\u0627 \u0645\u0627\u06cc\u0644\u06cc\u062f. \u0627\u06cc\u0646 \u062f\u0631 \u0641\u0648\u062a\u0631 \u0633\u0627\u06cc\u062a \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0645\u06cc\u0634\u0648\u062f"],"Google client id":["Google client id"],"Google client secret":["Google client secret"],"Guest":["\u0645\u0647\u0645\u0627\u0646"],"Guest uploads":["\u0622\u067e\u0644\u0648\u062f \u0645\u0647\u0645\u0627\u0646"],"HTML Codes":["\u06a9\u062f HTML"],"HTML embed":["\u067e\u06cc\u0648\u0633\u062a HTML"],"HTML medium linked":["\u06a9\u062f HTML \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637"],"HTML original linked":["\u06a9\u062f HTML \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0627\u0635\u0644\u06cc"],"HTML thumbnail linked":["\u06a9\u062f HTML \u0628\u0631\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0628\u0646\u062f \u0627\u0646\u06af\u0634\u062a\u06cc"],"Height will be automatic calculated.":["\u0627\u0631\u062a\u0642\u0627\u0639 \u0628\u0647 \u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u0627\u0646\u062f\u0627\u0632\u0647 \u06af\u06cc\u0631\u06cc \u0645\u06cc\u0634\u0648\u062f"],"Here you can set the codes for the predefined ad spaces.":["\u0627\u06cc\u0646\u062c\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u06a9\u062f \u0647\u0627\u06cc \u062a\u0628\u0644\u06cc\u063a\u0627\u062a\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0645\u06a9\u0627\u0646 \u0647\u0627\u06cc \u0627\u0632 \u067e\u06cc\u0634 \u062a\u0639\u06cc\u06cc\u0646 \u0634\u062f\u0647 \u0642\u0631\u0627\u0631 \u062f\u0647\u06cc\u062f."],"Hi %n, welcome to %w":["\u0633\u0644\u0627\u0645 %n, \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f \u0628\u0647 %w"],"Home user id":["\u0634\u0646\u0627\u0633\u0647 \u06a9\u0627\u0631\u0628\u0631 \u062e\u0627\u0646\u0647"],"Homepage":["\u0635\u0641\u062d\u0647 \u0627\u0635\u0644\u06cc"],"Hourly limit":["\u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u0622\u067e\u0644\u0648\u062f \u062f\u0631 \u0633\u0627\u0639\u062a"],"How many failed attemps needed to ask for reCAPTCHA?":["\u067e\u0633 \u0627\u0632 \u0686\u0647 \u062a\u0639\u062f\u0627\u062f \u062a\u0644\u0627\u0634 \u0646\u0627\u0645\u0648\u0641\u0642 \u06a9\u062f \u0627\u0645\u0646\u06cc\u062a\u06cc \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0634\u0648\u062f\u061f"],"How many items should be displayed per page listing.":["\u0686\u0647 \u062a\u0639\u062f\u0627\u062f \u062a\u0635\u0648\u06cc\u0631 \u062f\u0631 \u0647\u0631 \u0635\u0641\u062d\u0647 \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0634\u0648\u062f"],"How to send emails? SMTP recommended.":["\u0646\u062d\u0648\u0647 \u06cc \u0627\u0631\u0633\u0627\u0644 \u0627\u06cc\u0645\u06cc\u0644 \u0647\u0627\u061f SMTP \u067e\u06cc\u0634\u0646\u0647\u0627\u062f \u0645\u06cc\u0634\u0648\u062f"],"If enabled the system will send an email on flood incidents.":["\u0627\u06af\u0631 \u0641\u0639\u0627\u0644 \u0628\u0627\u0634\u062f \u0633\u06cc\u0633\u062a\u0645 \u062f\u0631 \u0647\u0646\u06af\u0627\u0645 \u062d\u0645\u0644\u0627\u062a \u0628\u0631\u0627\u06cc \u0634\u0645\u0627 \u0627\u06cc\u0645\u06cc\u0644 \u0627\u0631\u0633\u0627\u0644 \u0645\u06cc\u06a9\u0646\u062f"],"If you didn't intend this just ignore this message.":["\u062f\u0631 \u0635\u0648\u0631\u062a\u06cc \u06a9\u0647 \u0627\u06cc\u0646 \u0634\u0645\u0627 \u0646\u0628\u0648\u062f\u0647 \u0627\u06cc\u06cc\u062f\u060c \u06a9\u0627\u0641\u06cc\u0633\u062a \u0627\u06cc\u0646 \u0627\u06cc\u0645\u06cc\u0644 \u0631\u0627 \u0646\u0627\u062f\u06cc\u062f\u0647 \u0628\u06af\u06cc\u0631\u06cc\u062f."],"If you want to send a message fill the form below.":["\u0627\u06af\u0631 \u0645\u06cc\u062e\u0648\u0627\u0647\u06cc\u062f \u067e\u06cc\u063a\u0627\u0645\u06cc \u0628\u0641\u0631\u0633\u062a\u06cc\u062f \u0641\u0631\u0645 \u0632\u06cc\u0631 \u0631\u0627 \u067e\u0631 \u06a9\u0646\u06cc\u062f."],"Image":["\u062a\u0635\u0648\u06cc\u0631","\u062a\u0635\u0627\u0648\u06cc\u0631"],"Images":["\u062a\u0635\u0627\u0648\u06cc\u0631"],"Image ID":["\u0634\u0645\u0627\u0631\u0647 \u06cc \u062a\u0635\u0648\u06cc\u0631"],"Image URL":["URL \u062a\u0635\u0648\u06cc\u0631"],"Image edited successfully.":["\u062a\u0635\u0648\u06cc\u0631 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0648\u06cc\u0631\u0627\u06cc\u0634 \u0634\u062f"],"Image embed codes":["\u06a9\u062f \u0647\u0627\u06cc \u067e\u06cc\u0648\u0633\u062a \u062a\u0635\u0648\u06cc\u0631"],"Image link":["\u0644\u06cc\u0646\u06a9 \u062a\u0635\u0648\u06cc\u0631"],"Image links":["\u0644\u06cc\u0646\u06a9 \u0647\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631"],"Image path":["\u067e\u0648\u0634\u0647 \u062a\u0635\u0627\u0648\u06cc\u0631"],"Image upload":["\u0622\u067e\u0644\u0648\u062f \u062a\u0635\u0648\u06cc\u0631"],"In this album":["\u062f\u0631 \u0627\u06cc\u0646 \u0622\u0644\u0628\u0648\u0645"],"Incoming email address":["\u0627\u06cc\u0645\u06cc\u0644 \u0622\u062f\u0631\u0633 \u0648\u0631\u0648\u062f\u06cc"],"Indicate the target user id to show images on homepage. Leave it blank or zero to display recent images.":["\u0628\u0631\u0627\u06cc \u0646\u0645\u0627\u06cc\u0634 \u0622\u062e\u0631\u06cc\u0646 \u062a\u0635\u0627\u0648\u06cc\u0631 \u06cc\u06a9 \u06a9\u0627\u0631\u0628\u0631 \u062e\u0627\u0635 \u062f\u0631 \u0635\u0641\u062d\u0647 \u06cc \u062e\u0627\u0646\u06af\u06cc \u0627\u06cc\u0646 \u06af\u0632\u06cc\u0646\u0647 \u0631\u0627 \u067e\u0631 \u06a9\u0646\u06cc\u062f. \u062f\u0631 \u063a\u06cc\u0631 \u0627\u06cc\u0646\u0635\u0648\u0631\u062a \u0628\u0631\u0627\u06cc \u0646\u0645\u0627\u06cc\u0634 \u0622\u062e\u0631\u06cc\u0646 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0622\u0646\u0631\u0627 \u062e\u0627\u0644\u06cc \u0628\u06af\u0630\u0627\u0631\u06cc\u062f"],"Invalid SMTP port":["\u067e\u0631\u062a SMTP \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid SMTP security":["\u0627\u0645\u0646\u06cc\u062a SMTP \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid SMTP server":["\u0633\u0631\u0648\u0631 SMTP \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a"],"Invalid SMTP username":["\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc SMTP \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a"],"Invalid Username\/Email":["\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \/ \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid email":["\u0627\u06cc\u0645\u06cc\u0644 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid email mode":["\u0634\u06cc\u0648\u0647 \u0627\u0631\u0633\u0627\u0644 \u0627\u06cc\u0645\u06cc\u0644 \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a."],"Invalid language":["\u0632\u0628\u0627\u0646 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid medium width":["\u0639\u0631\u0636 \u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid message":["\u067e\u06cc\u063a\u0627\u0645 \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a."],"Invalid name":["\u0646\u0627\u0645 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a\u062f"],"Invalid reCAPTCHA":["\u06a9\u062f \u0627\u0645\u0646\u06cc\u062a\u06cc \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a."],"Invalid subject":["\u0639\u0646\u0648\u0627\u0646 \u0646\u0627\u062f\u0631\u0633\u062a \u0627\u0633\u062a."],"Invalid theme":["\u0642\u0627\u0644\u0628 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid thumb height":["\u0627\u0631\u062a\u0642\u0627\u0639 \u062a\u0635\u0648\u06cc\u0631 \u0628\u0646\u062f \u0627\u0646\u06af\u0634\u062a\u06cc \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a."],"Invalid thumb width":["\u0639\u0631\u0636 \u062a\u0635\u0648\u06cc\u0631 \u0628\u0646\u062f \u0627\u0646\u06af\u0634\u062a\u06cc \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a."],"Invalid timezone":["Invalid timezone"],"Invalid upload filenaming":["\u0646\u0627\u0645 \u06af\u0630\u0627\u0631\u06cc \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc \u0622\u067e\u0644\u0648\u062f \u0634\u062f\u0647 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a."],"Invalid upload image path":["\u0622\u062f\u0631\u0633 \u0622\u067e\u0644\u0648\u062f \u062a\u0635\u0627\u0648\u06cc\u0631 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid upload storage mode":["\u0634\u06cc\u0648\u0647 \u0630\u062e\u06cc\u0631\u0647 \u0633\u0627\u0632\u06cc \u0641\u0627\u06cc\u0644 \u0647\u0627\u06cc \u0622\u067e\u0644\u0648\u062f \u0634\u062f\u0647 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a."],"Invalid user id":["\u0634\u0646\u0627\u0633\u0647 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid username":["\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid value":["\u0645\u0642\u062f\u0627\u0631 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid website":["\u0648\u0628\u0633\u0627\u06cc\u062a \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Invalid website name":["\u0646\u0627\u0645 \u0648\u0628\u0633\u0627\u06cc\u062a \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Items per page (listing)":["\u0622\u06cc\u062a\u0645 \u062f\u0631 \u0647\u0631 \u0635\u0641\u062d\u0647"],"Keep me logged in":["\u0645\u0631\u0627 \u0628\u062e\u0627\u0637\u0631 \u0628\u0633\u067e\u0627\u0631"],"Language":["\u0632\u0628\u0627\u0646"],"Link":["\u067e\u06cc\u0648\u0646\u062f"],"Link your account to external services to be able to login and share content.":["\u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc \u062e\u0648\u062f \u0631\u0627 \u0628\u0627 \u0633\u0631\u0648\u06cc\u0633 \u0647\u0627\u06cc \u062e\u0627\u0631\u062c\u06cc \u0644\u06cc\u0646\u06a9 \u06a9\u0646\u06cc\u062f \u062a\u0627 \u0628\u062a\u0648\u0627\u0646\u06cc\u062f \u0648\u0627\u0631\u062f \u0634\u0648\u06cc\u062f \u0648 \u0645\u0637\u0627\u0644\u0628 \u0631\u0627 \u0628\u0647 \u0627\u0634\u062a\u0631\u0627\u06a9 \u0628\u06af\u0630\u0627\u0631\u06cc\u062f."],"Linked accounts":["\u062d\u0633\u0627\u0628 \u0647\u0627\u06cc \u0645\u062a\u0635\u0644 \u0634\u062f\u0647"],"Linked image":["\u062a\u0635\u0627\u0648\u06cc\u0631 \u0644\u06cc\u0646\u06a9 \u0634\u062f\u0647"],"Linked medium":["\u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637"],"Linked thumbnail":["\u0628\u0646\u062f \u0627\u0646\u06af\u0634\u062a\u06cc"],"Links":["\u0644\u06cc\u0646\u06a9\u0647\u0627"],"Load more":["\u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u0628\u06cc\u0634\u062a\u0631"],"Logged out":["\u062e\u0627\u0631\u062c \u0634\u062f\u06cc\u062f"],"Login needed":["\u0628\u0627\u06cc\u062f \u0648\u0627\u0631\u062f \u0634\u0648\u06cc\u062f"],"Login now":["\u0627\u06a9\u0646\u0648\u0646 \u0648\u0627\u0631\u062f \u0634\u0648\u06cc\u062f"],"Mail error":["\u062e\u0637\u0627 \u062f\u0631 \u0627\u0631\u0633\u0627\u0644 \u0627\u06cc\u0645\u06cc\u0644."],"Manage your content, create private albums, customize your profile and more.":["\u0645\u062f\u06cc\u0631\u06cc\u062a \u0645\u0637\u0627\u0644\u0628 \u0634\u0645\u0627 \u060c \u0633\u0627\u062e\u062a \u0622\u0644\u0628\u0648\u0645 \u062e\u0635\u0648\u0635\u06cc \u060c \u0648\u06cc\u0631\u0627\u06cc\u0634 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u0648 ..."],"Margin from the border of the image to the watermark image.":["\u0642\u0631\u0627\u0631\u062f\u0627\u062f\u0646 \u0641\u0627\u0635\u0644 \u0628\u06cc\u0646 \u0627\u0646\u062a\u0647\u0627\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0648 \u0645\u062d\u0644 \u0642\u0631\u0627\u0631 \u06af\u06cc\u0631\u06cc \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9"],"Max. allowed %s":["\u062d\u062f\u0627\u06a9\u062b\u0631 \u0645\u062c\u0627\u0632 %s"],"Max. allowed filesize. (Max allowed by server is %s)":["\u062d\u062f\u0627\u06a9\u062b\u0631 \u062d\u062c\u0645 \u0642\u0627\u0628\u0644 \u0622\u067e\u0644\u0648\u062f \u0628\u0631\u0627\u06cc \u0647\u0631 \u0641\u0627\u06cc\u0644 ( \u062f\u0631 \u0627\u06cc\u0646 \u0633\u0631\u0648\u0631 %s)"],"Max. execution time":["Max. execution time"],"Max. filesize":["\u062d\u062f\u0627\u06a9\u062b\u0631 \u062d\u062c\u0645 \u0641\u0627\u06cc\u0644"],"Max. post size":["\u062d\u062f\u0627\u06a9\u062b\u0631 \u062d\u062c\u0645 \u067e\u0633\u062a"],"Max. upload size":["\u062d\u062f\u0627\u06a9\u062b\u0631 \u062d\u062c\u0645 \u0622\u067e\u0644\u0648\u062f"],"Medium URL":["\u0622\u062f\u0631\u0633 \u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637"],"Medium size":["\u0627\u0646\u062f\u0627\u0632\u0647 \u062a\u0635\u0648\u06cc\u0631 \u0645\u062a\u0648\u0633\u0637"],"Memory limit":["\u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u062d\u0627\u0641\u0638\u0647"],"Message":["\u067e\u06cc\u063a\u0627\u0645"],"Message sent":["\u067e\u06cc\u063a\u0627\u0645 \u0634\u0645\u0627 \u0627\u0631\u0633\u0627\u0644 \u0634\u062f."],"Minute limit":["\u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u0622\u067e\u0644\u0648\u062f \u062f\u0631 \u062f\u0642\u06cc\u0642\u0647"],"Mixed":["\u0645\u06cc\u06a9\u0633 \u0634\u062f\u0647"],"Monthly limit":["\u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u0622\u067e\u0644\u0648\u062f \u062f\u0631 \u0645\u0627\u0647"],"Most recent":["\u0622\u062e\u0631\u06cc\u0646 \u062a\u0635\u0627\u0648\u06cc\u0631"],"Most viewed":["\u0645\u062d\u0628\u0648\u0628\u062a\u0631\u06cc\u0646"],"Move to album":["\u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0647 \u0622\u0644\u0628\u0648\u0645"],"Move to existing album":["\u0627\u0646\u062a\u0642\u0627\u0644 \u0628\u0647 \u06cc\u06a9 \u0622\u0644\u0628\u0648\u0645"],"My Profile":["\u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u0645\u0646"],"MySQL server info":["\u0627\u0637\u0644\u0627\u0639\u0627\u062a \u0633\u0631\u0648\u0631 \u062f\u06cc\u062a\u0627\u0628\u06cc\u0633"],"MySQL version":["\u0646\u0633\u062e\u0647 \u06cc \u062f\u06cc\u062a\u0627\u0628\u06cc\u0633"],"Name":["\u0646\u0627\u0645"],"New Password":["\u067e\u0633\u0648\u0631\u062f \u062c\u062f\u06cc\u062f"],"New password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f"],"No <span data-text=\"queue-objects\">images<\/span> have been uploaded":["\u0647\u06cc\u0686 <span data-text=\"queue-objects\">\u062a\u0635\u0648\u06cc\u0631\u06cc<\/span> \u0622\u067e\u0644\u0648\u062f \u0646\u0634\u062f\u0647 \u0627\u0633\u062a."],"Note: Some images couldn't be uploaded.":["\u062a\u0648\u062c\u0647: \u0627\u0645\u06a9\u0627\u0646 \u0622\u067e\u0644\u0648\u062f \u0628\u0631\u062e\u06cc \u062a\u0635\u0627\u0648\u06cc\u0631 \u0645\u0648\u062c\u0648\u062f \u0646\u06cc\u0633\u062a."],"Note: This content is private. Change privacy to \"public\" to share.":["\u062a\u0648\u062c\u0647: \u0627\u06cc\u0646 \u0645\u0637\u0644\u0628 \u062e\u0635\u0648\u0635\u06cc \u0627\u0633\u062a. \u062c\u0647\u062a \u0627\u0634\u062a\u0631\u0627\u06a9 \u0622\u0646 \u0628\u0627\u06cc\u062f \u0645\u0637\u0644\u0628 \u0631\u0627  \"public\" \u06a9\u0646\u06cc\u062f"],"Notify to email":["\u0627\u0631\u0633\u0627\u0644 \u0627\u06cc\u0645\u06cc\u0644"],"Now that you account is ready you can enjoy uploading your images, creating albums and setting the privacy of your content as well as many more cool things that you will discover.":["\u062d\u0627\u0644\u0627 \u062d\u0633\u0627\u0628 \u0634\u0645\u0627 \u0641\u0639\u0627\u0644 \u0627\u0633\u062a \u0648 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0627\u0632 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u062a\u0635\u0627\u0648\u06cc\u0631 \u060c \u0633\u0627\u062e\u062a \u0622\u0644\u0628\u0648\u0645 \u0647\u0627 \u060c \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc \u062a\u0635\u0627\u0648\u06cc\u0631 \u0648 \u0622\u0644\u0628\u0648\u0645 \u0648 \u0628\u0633\u06cc\u0627\u0631\u06cc \u0648\u06cc\u0698\u06af\u06cc \u0647\u0627\u06cc \u062f\u06cc\u06af\u0631 \u0633\u0627\u06cc\u062a \u0645\u0627 \u0644\u0630\u062a \u0628\u0628\u0631\u06cc\u062f."],"Oldest":["\u0642\u062f\u06cc\u0645\u06cc\u062a\u0631\u06cc\u0646 \u062a\u0635\u0627\u0648\u06cc\u0631"],"Opacity of the watermark in the final watermarked image. Values 0 to 100.":["\u0634\u0641\u0627\u0641\u06cc\u062a \u0646\u0645\u0627\u06cc\u0634 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9 \u062f\u0631 \u062a\u0635\u0627\u0648\u06cc\u0631. \u0628\u06cc\u0646 0 \u062a\u0627 100"],"Original":["\u0646\u0627\u0645 \u0627\u0635\u0644\u06cc"],"PHP version":["\u0646\u0633\u062e\u0647 \u06cc PHP"],"Password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631"],"Password has been changed":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062a\u063a\u06cc\u06cc\u0631 \u06cc\u0627\u0641\u062a."],"Password has been created.":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0633\u0627\u062e\u062a\u0647 \u0634\u062f."],"Passwords don't match":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0647\u0645\u0627\u0647\u0646\u06af \u0646\u06cc\u0633\u062a\u0646\u062f"],"Please select a picture of at most %s size.":["\u0644\u0637\u0641\u0627 \u06cc\u06a9 \u062a\u0635\u0648\u06cc\u0631 \u0628\u0627 \u062d\u062f\u0627\u06a9\u062b\u0631 \u062d\u062c\u0645 %s \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f"],"Please select a valid image file type.":["\u0644\u0637\u0641\u0627 \u06cc\u06a9 \u0641\u0627\u06cc\u0644 \u0642\u0627\u0628\u0644 \u0642\u0628\u0648\u0644 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f (\u062a\u0635\u0648\u06cc\u0631)"],"Powered by <a href=\"http:\/\/chevereto.com\">Chevereto image hosting script<\/a>":["\u0642\u062f\u0631\u062a \u06af\u0631\u0641\u062a\u0647 \u0627\u0632 chevereto \u0628\u0627 <a href=\"http:\/\/www.xum.ir\">\u0622\u067e\u0644\u0648\u062f \u0639\u06a9\u0633<\/a> \u0641\u0627\u0631\u0633\u06cc"],"Privacy":["\u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc"],"Private (just me)":["\u062e\u0635\u0648\u0635\u06cc ( \u0641\u0642\u0637 \u0645\u0646 )"],"Private upload":["\u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u062e\u0635\u0648\u0635\u06cc"],"Profile":["\u067e\u0631\u0648\u0641\u0627\u06cc\u0644"],"Profile background image deleted.":["\u062a\u0635\u0648\u06cc\u0631 \u067e\u0633 \u0632\u0645\u06cc\u0646\u0647 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u062d\u0630\u0641 \u0634\u062f"],"Profile background image updated.":["\u062a\u0635\u0648\u06cc\u0631 \u067e\u0633 \u0632\u0645\u06cc\u0646\u0647 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0628\u0647 \u0631\u0648\u0632 \u0634\u062f."],"Profile image updated.":["\u062a\u0635\u0648\u06cc\u0631 \u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0628\u0647 \u0631\u0648\u0632 \u0634\u062f."],"Public":["\u0639\u0645\u0648\u0645\u06cc"],"Put your custom CSS code here. It will be placed as <style> just before the closing <\/head> tag.":["\u0627\u0633\u062a\u0627\u06cc\u0644 \u0634\u062e\u0635\u06cc \u062e\u0648\u062f \u0631\u0627 \u062f\u0631 \u0627\u06cc\u0646 \u0642\u0633\u0645\u062a \u0642\u0631\u0627\u0631 \u062f\u0647\u06cc\u062f. \u0627\u06cc\u0646 \u0642\u0631\u0627\u0631 \u062e\u0648\u0627\u0647\u062f \u06af\u0631\u0641\u062a \u0642\u0628\u0644 \u0627\u0632 \u062a\u06af head \u0642\u0627\u0644\u0628"],"Put your custom JS code here. It will be placed as <script> just before the closing <\/head> tag.":["\u06a9\u062f \u062c\u0627\u0648\u0627 \u0627\u0633\u06a9\u0631\u06cc\u067e\u062a \u0634\u062e\u0635\u06cc \u062e\u0648\u062f \u0631\u0627 \u0642\u0631\u0627\u0631 \u062f\u0647\u06cc\u062f \u0627\u06cc\u0646 \u0642\u0633\u0645\u062a \u0642\u0628\u0644 \u0627\u0632 \u062a\u06af head \u0642\u0631\u0627\u0631 \u0645\u06cc\u06af\u06cc\u0631\u062f"],"Put your themes in the %s folder":["\u0642\u0627\u0644\u0628 \u0647\u0627\u06cc\u062a\u0627\u0646 \u0631\u0627 \u062f\u0631 \u067e\u0648\u0634\u0647 %s  \u0642\u0631\u0627\u0631 \u062f\u0647\u06cc\u062f."],"Random":["\u062a\u0635\u0627\u062f\u0641\u06cc"],"Raster logo image":["\u0644\u0648\u06af\u0648 \u0627\u0635\u0644\u06cc \u0633\u0627\u06cc\u062a"],"Re-enter your new password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f \u0631\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Re-enter your password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0631\u0627 \u062f\u0648\u0628\u0627\u0631\u0647 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"Recipient for contact form and system alerts.":["\u0627\u06cc\u0645\u06cc\u0644 \u062c\u0647\u062a \u062f\u0631\u06cc\u0627\u0641\u062a \u0641\u0631\u0645 \u0647\u0627\u06cc \u062a\u0645\u0627\u0633 \u0648 \u067e\u06cc\u063a\u0627\u0645 \u0647\u0627\u06cc \u0633\u06cc\u0633\u062a\u0645\u06cc"],"Register date":["\u062a\u0627\u0631\u06cc\u062e \u0639\u0636\u0648\u06cc\u062a"],"Relative position of the watermark image. First horizontal align then vertical align.":["\u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u0645\u06a9\u0627\u0646 \u0642\u0631\u0627\u0631\u06af\u06cc\u0631\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9. \u0627\u0648\u0644\u06cc \u0627\u0641\u0642\u06cc \u0648 \u062f\u0648\u0645\u06cc \u0639\u0645\u0648\u062f\u06cc \u0627\u0633\u062a"],"Relative to Chevereto root":["\u0645\u0631\u0628\u0648\u0637 \u0628\u0647 \u067e\u0648\u0634\u0647 \u06cc \u0646\u0631\u0645 \u0627\u0641\u0632\u0627\u0631"],"Request denied":["\u062f\u0631\u062e\u0648\u0627\u0633\u062a \u063a\u06cc\u0631 \u0645\u062c\u0627\u0632 \u0627\u0633\u062a"],"Resend account activation":["\u0627\u0631\u0633\u0627\u0644 \u062f\u0648\u0628\u0627\u0631\u0647 \u0627\u06cc\u0645\u06cc\u0644 \u0641\u0639\u0627\u0644 \u0633\u0627\u0632\u06cc"],"Resend activation":["\u0627\u0631\u0633\u0627\u0644 \u062f\u0648\u0628\u0627\u0631\u0647 \u0641\u0639\u0627\u0644\u0633\u0627\u0632\u06cc"],"Resend instructions":["\u0627\u0631\u0633\u0627\u0644 \u062f\u0648\u0628\u0627\u0631\u0647 \u06cc \u0631\u0627\u0647\u0646\u0645\u0627\u06cc\u06cc"],"Reset password":["\u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631"],"Reset your password at %s":["\u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062f\u0631 %s"],"Results for":["\u0646\u062a\u0627\u06cc\u062c \u0628\u0631\u0627\u06cc"],"Role":["\u0633\u0645\u062a"],"SMTP password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 SMTP"],"SMTP security":["\u0627\u0645\u0646\u06cc\u062a SMTP"],"SMTP server":["\u0633\u0631\u0648\u0631 SMTP"],"SMTP server and port":["\u067e\u0631\u062a \u0648 \u0633\u0631\u0648\u0631 smtp"],"SMTP username":["\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc SMTP"],"Save changes":["\u0630\u062e\u06cc\u0631\u0647 \u062a\u063a\u06cc\u06cc\u0631\u0627\u062a"],"Saving":["\u062f\u0631 \u062d\u0627\u0644 \u0630\u062e\u06cc\u0631\u0647"],"Search":["\u062c\u0633\u062a\u062c\u0648"],"Search something else":["\u062c\u0633\u062a\u062c\u0648 \u06cc \u0686\u06cc\u0632\u06cc \u062f\u06cc\u06af\u0631"],"Select":["\u0627\u0646\u062a\u062e\u0627\u0628"],"Select all":["\u0627\u0646\u062a\u062e\u0627\u0628 \u0647\u0645\u0647"],"Select an existing album to move the album contents. You can also <a class=\"modal-switch\" data-switch=\"move-new-album\">create a new album<\/a> and move the album contents there.":["\u06cc\u06a9 \u0622\u0644\u0628\u0648\u0645 \u0628\u0631\u0627\u06cc \u0627\u0646\u062a\u0642\u0627\u0644 \u0645\u062d\u062a\u0648\u0627\u06cc \u0627\u06cc\u0646 \u0622\u0644\u0628\u0648\u0645 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f <a class=\"modal-switch\" data-switch=\"move-new-album\">\u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0633\u0627\u0632\u06cc\u062f<\/a> \u0648 \u0645\u062d\u062a\u0648\u0627\u06cc \u0627\u06cc\u0646 \u0622\u0644\u0628\u0648\u0645 \u0631\u0627 \u0628\u0647 \u0622\u0646\u062c\u0627 \u0627\u0646\u062a\u0642\u0627\u0644 \u062f\u0647\u06cc\u062f."],"Select an existing album to move the image. You can also <a class=\"modal-switch\" data-switch=\"move-new-album\">create a new album<\/a> and move the image there.":["\u06cc\u06a9 \u0622\u0644\u0628\u0648\u0645 \u062c\u0647\u062a \u0627\u0646\u062a\u0642\u0627\u0644 \u0627\u06cc\u0646 \u062a\u0635\u0648\u06cc\u0631 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f <a class=\"modal-switch\" data-switch=\"move-new-album\">\u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0633\u0627\u0632\u06cc\u062f<\/a> \u0648 \u062a\u0635\u0648\u06cc\u0631 \u0631\u0627 \u0628\u0647 \u0622\u0646\u062c\u0627 \u0627\u0646\u062a\u0642\u0627\u0644 \u062f\u0647\u06cc\u062f."],"Select an existing album to move the images. You can also <a class=\"modal-switch\" data-switch=\"move-new-album\">create a new album<\/a> and move the images there.":["\u06cc\u06a9 \u0622\u0644\u0628\u0648\u0645 \u0627\u0646\u062a\u062e\u0627\u0628 \u0648 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0631\u0627 \u0628\u0647 \u0622\u0646 \u0645\u0646\u062a\u0642\u0644 \u06a9\u0646\u06cc\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f <a class=\"modal-switch\" data-switch=\"move-new-album\">\u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0633\u0627\u0632\u06cc\u062f<\/a> \u0648 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0631\u0627 \u0628\u0647 \u0622\u0646\u062c\u0627 \u0627\u0646\u062a\u0642\u0627\u0644 \u062f\u0647\u06cc\u062f."],"Select an existing album to move the uploaded content. You can also <a class=\"modal-switch\" data-switch=\"move-new-album\">create a new album<\/a> and move the content there.":["\u06cc\u06a9 \u0622\u0644\u0628\u0648\u0645 \u062c\u0647\u062a \u0627\u0646\u062a\u0642\u0627\u0644 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0622\u067e\u0644\u0648\u062f \u0634\u062f\u0647 \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f <a class=\"modal-switch\" data-switch=\"move-new-album\">\u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f\u06cc \u0628\u0633\u0627\u0632\u06cc\u062f<\/a> \u0648 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0631\u0627 \u0628\u0647 \u0622\u0646 \u0645\u0646\u062a\u0642\u0644 \u06a9\u0646\u06cc\u062f."],"Select existing album":["\u0627\u0646\u062a\u062e\u0627\u0628 \u06cc\u06a9 \u0622\u0644\u0628\u0648\u0645"],"Select region":["\u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0646\u0637\u0642\u0647"],"Select the images to upload":["\u0639\u06a9\u0633\u06cc \u0631\u0627 \u0628\u0631\u0627\u06cc \u0622\u067e\u0644\u0648\u062f \u0627\u0646\u062a\u062e\u0627\u0628 \u06a9\u0646\u06cc\u062f"],"Selection":["\u0627\u0646\u062a\u062e\u0627\u0628 \u0645\u0646\u0637\u0642\u0647"],"Send message":["\u0627\u0631\u0633\u0627\u0644 \u067e\u06cc\u063a\u0627\u0645"],"Sender email for emails sent to users.":["\u0627\u06cc\u0645\u06cc\u0644 \u0622\u062f\u0631\u0633 \u0628\u0631\u0627\u06cc \u0627\u0631\u0633\u0627\u0644 \u0627\u06cc\u0645\u06cc\u0644 \u0628\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646"],"Sender name for emails sent to users.":["\u0646\u0627\u0645 \u0627\u0631\u0633\u0627\u0644 \u06a9\u0646\u0646\u062f\u0647 \u0628\u0631\u0627\u06cc \u0627\u06cc\u0645\u06cc\u0644 \u0647\u0627\u06cc \u0627\u0631\u0633\u0627\u0644 \u0634\u062f\u0647 \u0628\u0647 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646"],"Sending":["\u062f\u0631 \u062d\u0627\u0644 \u0627\u0631\u0633\u0627\u0644"],"Server":["\u0633\u0631\u0648\u0631"],"Settings":["\u062a\u0646\u0638\u06cc\u0645\u0627\u062a"],"Settings for %s":["\u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u0628\u0631\u0627\u06cc %s"],"Share":["\u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0631\u06cc"],"Share image":["\u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0631\u06cc \u062a\u0635\u0648\u06cc\u0631"],"Sign in":["\u0648\u0631\u0648\u062f"],"Sign in with another account":["\u0648\u0627\u0631\u062f \u0634\u062f\u0646 \u0628\u0627 \u06cc\u06a9 \u062d\u0633\u0627\u0628 \u062f\u06cc\u06af\u0631"],"Sign out":["\u062e\u0631\u0648\u062c"],"Sign up to unlock all the features":["\u0639\u0636\u0648 \u0634\u0648\u06cc\u062f \u062a\u0627 \u0647\u0645\u0647 \u0686\u06cc\u0632 \u0631\u0627 \u0628\u0647 \u0631\u0627\u06cc\u06af\u0627\u0646 \u062f\u0627\u0634\u062a\u0647 \u0628\u0627\u0634\u06cc\u062f!"],"Sign up with another account":["\u062b\u0628\u062a \u0646\u0627\u0645 \u06cc\u06a9 \u062d\u0633\u0627\u0628 \u06a9\u0627\u0631\u0628\u0631\u06cc \u062f\u06cc\u06af\u0631."],"Social networks":["\u0634\u0628\u06a9\u0647 \u0647\u0627\u06cc \u0627\u062c\u062a\u0645\u0627\u0639\u06cc"],"Some errors have occured and the system couldn't process your request.":["\u062e\u0637\u0627\u06cc\u06cc \u067e\u06cc\u0634 \u0622\u0645\u062f\u0647 \u0648 \u0633\u06cc\u0633\u062a\u0645 \u0642\u0627\u062f\u0631 \u0628\u0647 \u0627\u0646\u062c\u0627\u0645 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0634\u0645\u0627 \u0646\u06cc\u0633\u062a."],"Some files couldn't be added":["\u0628\u0639\u0636\u06cc \u0641\u0627\u06cc\u0644 \u0647\u0627 \u0627\u0645\u06a9\u0627\u0646 \u0627\u0636\u0627\u0641\u0647 \u0634\u062f\u0646 \u0631\u0627 \u0646\u062f\u0627\u0631\u0646\u062f."],"Stats":["\u0622\u0645\u0627\u0631"],"Status":["\u0648\u0636\u0639\u06cc\u062a"],"Storage mode":["\u0634\u06cc\u0648\u0647 \u0630\u062e\u06cc\u0631\u0647 \u0633\u0627\u0632\u06cc"],"Subject":["\u0639\u0646\u0648\u0627\u0646"],"Submit":["\u0627\u0631\u0633\u0627\u0644"],"System":["\u0633\u06cc\u0633\u062a\u0645"],"Terms of service":["\u0634\u0631\u0627\u06cc\u0637 \u0627\u0633\u062a\u0641\u0627\u062f\u0647"],"Thank you for joining":["\u0627\u0632 \u0639\u0636\u0648\u06cc\u062a \u0634\u0645\u0627 \u0645\u062a\u0634\u06a9\u0631\u06cc\u0645"],"That page doesn't exist":["\u0635\u0641\u062d\u0647 \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f."],"The content has been deleted.":["\u0645\u0637\u0644\u0628 \u062d\u0630\u0641 \u0634\u062f."],"The content has been edited.":["\u0645\u062d\u062a\u0648\u0627 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0648\u06cc\u0631\u0627\u06cc\u0634 \u0634\u062f."],"The content has been moved.":["\u0645\u062d\u062a\u0648\u0627 \u0645\u0646\u062a\u0642\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a."],"The profile background image will be deleted. This can't be undone. Are you sure that you want to delete the profile background image?":["\u067e\u0633 \u0632\u0645\u06cc\u0646\u0647 \u06cc \u067e\u0631\u0648\u0641\u0627\u06cc\u0644 \u0634\u0645\u0627 \u062d\u0630\u0641 \u0645\u06cc\u0634\u0648\u062f. \u0627\u06cc\u0646 \u0639\u0645\u0644 \u063a\u06cc\u0631 \u0642\u0627\u0628\u0644 \u0628\u0627\u0632\u06af\u0634\u062a \u0627\u0633\u062a. \u0645\u0637\u0645\u0626\u0646 \u0647\u0633\u062a\u06cc\u062f\u061f"],"The queue is being uploaded. It will take just a few seconds to complete.":["\u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u062f\u0631 \u062d\u0627\u0644 \u0627\u0646\u062c\u0627\u0645 \u0627\u0633\u062a. \u0645\u0645\u06a9\u0646 \u0627\u0633\u062a \u0686\u0646\u062f \u062b\u0627\u0646\u06cc\u0647 \u0637\u0648\u0644 \u0628\u06a9\u0634\u062f \u062a\u0627 \u062a\u06a9\u0645\u06cc\u0644 \u0634\u062f\u0646 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc."],"The reCAPTCHA wasn't entered correctly":["\u062a\u0635\u0648\u06cc\u0631 \u0627\u0645\u0646\u06cc\u062a\u06cc \u0628\u0647 \u062f\u0631\u0633\u062a\u06cc \u0648\u0627\u0631\u062f \u0646\u0634\u062f\u0647 \u0627\u0633\u062a."],"The requested page was not found.":["\u0635\u0641\u062d\u0647 \u06cc \u062f\u0631\u062e\u0648\u0627\u0633\u062a\u06cc \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f."],"The uploaded content will be moved to this newly created album. You can also move the content to an <a class=\"modal-switch\" data-switch=\"move-existing-album\">existing album<\/a>.":["\u062a\u0635\u0627\u0648\u06cc\u0631 \u0622\u067e\u0644\u0648\u062f \u0634\u062f\u0647 \u0628\u0647 \u0627\u06cc\u0646 \u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f \u0645\u0646\u062a\u0642\u0644 \u062e\u0648\u0627\u0647\u0646\u062f \u0634\u062f. \u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0622\u0646\u0647\u0627 \u0631\u0627 \u0628\u0647 <a class=\"modal-switch\" data-switch=\"move-existing-album\">\u0622\u0644\u0628\u0648\u0645 \u0647\u0627\u06cc \u0642\u0628\u0644\u06cc<\/a> \u0645\u0646\u062a\u0642\u0644 \u06a9\u0646\u06cc\u062f."],"The user has been deleted":["\u06a9\u0627\u0631\u0628\u0631 \u062d\u0630\u0641 \u0634\u062f."],"Theme":["\u0642\u0627\u0644\u0628"],"There's nothing to show here.":["\u0686\u06cc\u0632\u06cc \u0628\u0631\u0627\u06cc \u0646\u0645\u0627\u06cc\u0634 \u0648\u062c\u0648\u062f \u0646\u062f\u0627\u0631\u062f"],"This account is connected to %s":["\u0627\u06cc\u0646 \u06a9\u0627\u0631\u0628\u0631 \u0628\u0647 %s \u0645\u062a\u0635\u0644 \u0634\u062f."],"This content is private":["\u0627\u06cc\u0646 \u0645\u0637\u0644\u0628 \u062e\u0635\u0648\u0635\u06cc \u0645\u06cc\u0628\u0627\u0634\u062f."],"This email was sent from %w %u":["\u0627\u06cc\u0646 \u0627\u06cc\u0645\u06cc\u0644 \u0627\u0632 %w %u \u0627\u0631\u0633\u0627\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a."],"This is the salt used to convert numeric ID to alphanumeric. It was generated on install.":["\u0627\u06cc\u0646 \u06a9\u0644\u06cc\u062f \u0628\u0631\u0627\u06cc \u062a\u0628\u062f\u06cc\u0644 \u0634\u0646\u0627\u0633\u0647 \u0639\u062f\u062f\u06cc \u0628\u0647 \u0634\u0646\u0627\u0633\u0647 \u06cc \u062a\u0631\u06a9\u06cc\u0628\u06cc \u062d\u0631\u0648\u0641 \u0648 \u0627\u0639\u062f\u0627\u062f \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0645\u06cc\u0634\u0648\u062f. \u0627\u06cc\u0646 \u0628\u0647 \u0635\u0648\u0631\u062a \u062e\u0648\u062f\u06a9\u0627\u0631 \u062f\u0631 \u0647\u0646\u06af\u0627\u0645 \u0646\u0635\u0628 \u0633\u0627\u062e\u062a\u0647 \u0634\u062f\u0647 \u0627\u0633\u062a."],"This is your real name, not your username.":["\u0627\u06cc\u0646 \u0646\u0627\u0645 \u0627\u0635\u0644\u06cc \u0634\u0645\u0627\u0633\u062a. \u0646\u0647 \u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u0634\u0645\u0627"],"This request was made from IP: %s":["\u0627\u06cc\u0646 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0627\u0632 \u0622\u06cc\u067e\u06cc \u0622\u062f\u0631\u0633 %s \u062f\u0631\u06cc\u0627\u0641\u062a \u0634\u062f\u0647 \u0627\u0633\u062a"],"This user doesn't have a password. Add one using this form.":["\u0627\u06cc\u0646 \u06a9\u0627\u0631\u0628\u0631 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631\u06cc \u0646\u062f\u0627\u0631\u062f. \u062a\u0648\u0633\u0637 \u0641\u0631\u0645 \u0632\u06cc\u0631 \u0628\u0631\u0627\u06cc \u06a9\u0627\u0631\u0628\u0631 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062a\u0639\u06cc\u06cc\u0646 \u06a9\u0646\u06cc\u062f."],"Thumb size":["\u0627\u0646\u062f\u0627\u0632\u0647 \u0628\u0646\u062f \u0627\u0646\u06af\u0634\u062a\u06cc"],"Thumbnail URL":["\u0622\u062f\u0631\u0633 \u067e\u06cc\u0634\u0646\u0645\u0627\u06cc\u0634"],"Thumbnails will be fixed to this size.":["\u062a\u0635\u0627\u0648\u06cc\u0631 \u0628\u0646\u062f \u0627\u0646\u06af\u0634\u062a\u06cc \u0628\u0627 \u0627\u06cc\u0646 \u0627\u0646\u062f\u0627\u0632\u0647 \u0646\u0645\u0627\u06cc\u0634 \u062f\u0627\u062f\u0647 \u0645\u06cc\u0634\u0648\u0646\u062f."],"Timezone":["\u0645\u0646\u0637\u0642\u0647 \u0632\u0645\u0627\u0646\u06cc"],"Title \/ Description":["\u0639\u0646\u0648\u0627\u0646 \/ \u062a\u0648\u0636\u06cc\u062d\u0627\u062a"],"To complete the process you must <a href=\"%s\">activate your account<\/a>.":["\u0628\u0631\u0627\u06cc \u067e\u0631\u062f\u0627\u0632\u0634 \u0627\u06cc\u0646 \u062f\u0631\u062e\u0648\u0627\u0633\u062a \u0634\u0645\u0627 \u0628\u0627\u06cc\u062f <a href=\"%s\">\u062d\u0633\u0627\u0628 \u062e\u0648\u062f \u0631\u0627 \u0641\u0639\u0627\u0644 \u06a9\u0646\u06cc\u062f<\/a>."],"To complete the process you must <a href=\"%s\">activate your email<\/a>.":["\u0628\u0631\u0627\u06cc \u067e\u0631\u062f\u0627\u0632\u0634 \u0627\u06cc\u0646 \u0639\u0645\u0644 \u0634\u0645\u0627 \u0628\u0627\u06cc\u062f <a href=\"%s\">\u0627\u06cc\u0645\u06cc\u0644 \u062e\u0648\u062f \u0631\u0627 \u062a\u0627\u06cc\u06cc\u062f \u06a9\u0646\u06cc\u062f<\/a>."],"To reset your password <a href=\"%s\">follow this link<\/a>.":["\u0628\u0631\u0627\u06cc \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u062e\u0648\u062f <a href=\"%s\">\u0627\u06cc\u0646 \u0644\u06cc\u0646\u06a9 \u0631\u0627 \u062f\u0646\u0628\u0627\u0644 \u06a9\u0646\u06cc\u062f<\/a>."],"To use all the features of this site you must be logged in. If you don't have an account you can <a href=\"%s\">sign up<\/a> right now.":["\u0628\u0631\u0627\u06cc \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u0627\u06cc\u0646 \u0648\u06cc\u0698\u06af\u06cc \u0628\u0627\u06cc\u062f \u0642\u0628\u0644\u0627 \u062f\u0631 \u0633\u0627\u06cc\u062a \u0648\u0627\u0631\u062f \u0634\u062f\u0647 \u0628\u0627\u0634\u06cc\u062f. \u0627\u06af\u0631 \u062f\u0631 \u0633\u0627\u06cc\u062a \u0645\u0627 \u062d\u0633\u0627\u0628\u06cc \u0646\u062f\u0627\u0631\u06cc\u062f \u0647\u0645\u06cc\u0646 \u0627\u0644\u0627\u0646 <a href=\"%s\">\u062b\u0628\u062a \u0646\u0627\u0645<\/a> \u06a9\u0646\u06cc\u062f"],"Toogle upload privacy":["\u0646\u0645\u0627\u06cc\u0634 \u062a\u0646\u0638\u06cc\u0645\u0627\u062a \u062d\u0631\u06cc\u0645 \u062e\u0635\u0648\u0635\u06cc"],"Top users":["\u0628\u0631\u062a\u0631\u06cc\u0646 \u06a9\u0627\u0631\u0628\u0631\u0627\u0646"],"Twitter API key":["Twitter API key"],"Twitter API secret":["Twitter API secret"],"Twitter account":["\u062d\u0633\u0627\u0628 \u062a\u0648\u06cc\u06cc\u062a\u0631"],"Unsecured":["\u063a\u06cc\u0631 \u0627\u0645\u0646"],"Unselect":["\u0639\u062f\u0645 \u0627\u0646\u062a\u062e\u0627\u0628"],"Untitled":["\u0628\u062f\u0648\u0646 \u0639\u0646\u0648\u0627\u0646"],"Untitled album":["\u0622\u0644\u0628\u0648\u0645 \u0628\u062f\u0648\u0646 \u0639\u0646\u0648\u0627\u0646"],"Upload":["\u0622\u067e\u0644\u0648\u062f \u0639\u06a9\u0633"],"Upload and share your images.":["\u0639\u06a9\u0633 \u0647\u0627\u06cc \u062e\u0648\u062f \u0631\u0627 \u0622\u067e\u0644\u0648\u062f \u0648 \u0645\u0646\u062a\u0634\u0631 \u06a9\u0646\u06cc\u062f"],"Upload complete":["\u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u06a9\u0627\u0645\u0644 \u0634\u062f"],"Upload date":["\u062a\u0627\u0631\u06cc\u062e \u0622\u067e\u0644\u0648\u062f \u062a\u0635\u0648\u06cc\u0631"],"Upload new image":["\u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u062a\u0635\u0648\u06cc\u0631 \u062c\u062f\u06cc\u062f"],"Upload profile background":["\u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u067e\u0633 \u0632\u0645\u06cc\u0646\u0647 \u06cc \u067e\u0631\u0648\u0641\u0627\u06cc\u0644"],"Uploaded %s":["%s \u0622\u067e\u0644\u0648\u062f \u0634\u062f"],"Uploaded by guest to Public":["\u0622\u067e\u0644\u0648\u062f \u0634\u062f\u0647 \u062a\u0648\u0633\u0637 \u0645\u0647\u0645\u0627\u0646 \u062f\u0631 \u0639\u0645\u0648\u0645\u06cc"],"Uploader IP":["\u0622\u06cc\u067e\u06cc \u0622\u067e\u0644\u0648\u062f \u06a9\u0646\u0646\u062f\u0647 \u062a\u0635\u0648\u06cc\u0631"],"Uploading":["\u062f\u0631 \u062d\u0627\u0644 \u0622\u067e\u0644\u0648\u062f"],"Uploading <span data-text=\"queue-size\">0<\/span> <span data-text=\"queue-objects\">images<\/span>":["\u062f\u0631 \u062d\u0627\u0644 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc <span data-text=\"queue-size\">0<\/span> <span data-text=\"queue-objects\">\u0639\u06a9\u0633<\/span>"],"Use a new password":["\u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u0627\u0632 \u06cc\u06a9 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f"],"User":["\u06a9\u0627\u0631\u0628\u0631","\u06a9\u0627\u0631\u0628\u0631\u0627\u0646"],"Users":["\u06a9\u0627\u0631\u0628\u0631\u0627\u0646"],"User ID":["\u0634\u0646\u0627\u0633\u0647 \u06a9\u0627\u0631\u0628\u0631\u06cc"],"User doesn't have an email.":["\u06a9\u0627\u0631\u0628\u0631 \u0627\u06cc\u0645\u06cc\u0644\u06cc \u0646\u062f\u0627\u0631\u062f."],"User has no connections.":["\u06a9\u0627\u0631\u0628\u0631 \u0647\u06cc\u0686 \u0627\u062a\u0635\u0627\u0644\u0627\u062a\u06cc \u0646\u062f\u0627\u0631\u062f"],"Username":["\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc"],"Username or Email address":["\u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \u06cc\u0627 \u0622\u062f\u0631\u0633 \u0627\u06cc\u0645\u06cc\u0644"],"Valid":["\u0641\u0639\u0627\u0644"],"Vector logo image":["\u062a\u0635\u0648\u06cc\u0631 \u0644\u0648\u06af\u0648 \u0628\u0631\u062f\u0627\u0631\u06cc"],"Vector version or your website logo in SVG format.":["\u0646\u0633\u062e\u0647 \u06cc \u0628\u0631\u062f\u0627\u0631\u06cc \u0644\u0648\u06af\u0648 \u0648\u0628\u0633\u0627\u06cc\u062a \u0634\u0645\u0627 \u062f\u0631 \u0641\u0631\u0645\u062a svg"],"Viewer links":["\u0644\u06cc\u0646\u06a9 \u0645\u0634\u0627\u0647\u062f\u0647"],"Warning: Can't write in %s":["\u062e\u0637\u0627: \u0642\u0627\u062f\u0631 \u0628\u0647 \u0646\u0648\u0634\u062a\u0646 \u062f\u0631 %s \u0646\u06cc\u0633\u062a"],"Watermark image":["\u062a\u0635\u0648\u06cc\u0631 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9"],"Watermark image to use. Must be a PNG.":["\u062a\u0635\u0648\u06cc\u0631 \u0645\u0648\u0631\u062f \u0627\u0633\u062a\u0641\u0627\u062f\u0647 \u062f\u0631 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9. \u062d\u062a\u0645\u0627 png \u0628\u0627\u0634\u062f"],"Watermark margin":["\u0641\u0627\u0635\u0644\u0647 \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9"],"Watermark opacity":["\u0634\u0641\u0627\u0641\u06cc\u062a \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9"],"Watermark position":["\u0645\u06a9\u0627\u0646 \u0642\u0631\u0627\u0631 \u06af\u06cc\u0631\u06cc \u0648\u0627\u062a\u0631\u0645\u0627\u0631\u06a9"],"We received a request to change the email of your <a href=\"%u\">%n<\/a> account at %w.":["\u0645\u0627 \u062f\u0631\u062e\u0648\u0627\u0633\u062a\u06cc \u0645\u0628\u0646\u06cc \u0628\u0631 \u062a\u063a\u06cc\u06cc\u0631 \u0627\u06cc\u0645\u06cc\u0644 \u0622\u062f\u0631\u0633 \u062d\u0633\u0627\u0628 \u0634\u0645\u0627 <a href=\"%u\">%n<\/a> \u062f\u0631 %w \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u0645"],"We received a request to register the %n account at %w.":["\u0645\u0627 \u062f\u0631\u062e\u0648\u0627\u0633\u062a\u06cc \u0645\u0628\u0646\u06cc \u0628\u0631 \u062b\u0628\u062a \u062d\u0633\u0627\u0628 %n \u062f\u0631 %w \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u0645."],"We received a request to reset the password for your <a href=\"%u\">%n<\/a> account.":["\u0645\u0627 \u062f\u0631\u062e\u0648\u0627\u0633\u062a\u06cc \u0628\u0631\u0627\u06cc \u0628\u0627\u0632\u06cc\u0627\u0628\u06cc \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062d\u0633\u0627\u0628 \u0634\u0645\u0627 <a href=\"%u\">%n<\/a> \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f\u0647 \u0627\u06cc\u06cc\u0645."],"We will be in touch soon.":["\u0628\u0647 \u0632\u0648\u062f\u06cc \u0628\u0627 \u0634\u0645\u0627 \u062a\u0645\u0627\u0633 \u0645\u06cc\u06af\u06cc\u0631\u06cc\u0645."],"Website":["\u0648\u0628\u0633\u0627\u06cc\u062a"],"Website description":["\u062a\u0648\u0636\u06cc\u062d\u0627\u062a \u0648\u0628\u0633\u0627\u06cc\u062a"],"Website doctitle":["\u0639\u0646\u0648\u0627\u0646 \u0648\u0628\u0633\u0627\u06cc\u062a"],"Website keywords":["\u06a9\u0644\u0645\u0627\u062a \u06a9\u0644\u06cc\u062f\u06cc \u0648\u0628\u0633\u0627\u06cc\u062a"],"Website name":["\u0622\u062f\u0631\u0633 \u0648\u0628\u0633\u0627\u06cc\u062a"],"Weekly limit":["\u0645\u062d\u062f\u0648\u062f\u06cc\u062a \u0622\u067e\u0644\u0648\u062f \u062f\u0631 \u0647\u0641\u062a\u0647"],"Welcome to %s":["\u0628\u0647 %s \u062e\u0648\u0634 \u0622\u0645\u062f\u06cc\u062f"],"Where to store the images? Relative to Chevereto root.":["\u06a9\u062c\u0627 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0630\u062e\u06cc\u0631\u0647 \u0634\u0648\u0646\u062f\u061f \u0645\u0631\u0628\u0648\u0637 \u0627\u0633\u062a \u0628\u0647 \u0645\u062d\u0644 \u0630\u062e\u06cc\u0631\u0647 \u0646\u0631\u0645 \u0627\u0641\u0632\u0627\u0631"],"Who can view this content":["\u0686\u0647 \u06a9\u0633\u0627\u0646\u06cc \u0645\u06cc\u062a\u0648\u0627\u0646\u0646\u062f \u0627\u06cc\u0646 \u0631\u0627 \u0645\u0634\u0627\u0647\u062f\u0647 \u06a9\u0646\u0646\u062f\u061f"],"Wrong Username\/Email password combination":["\u062a\u0631\u06a9\u06cc\u0628 \u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \/ \u0627\u06cc\u0645\u06cc\u0644 + \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"Wrong Username\/Email values":["\u0645\u0642\u062f\u0627\u0631 \u0646\u0627\u0645 \u06a9\u0627\u0631\u0628\u0631\u06cc \/ \u0627\u06cc\u0645\u06cc\u0644 \u0627\u0634\u062a\u0628\u0627\u0647 \u0648\u0627\u0631\u062f \u0634\u062f\u0647 \u0627\u0633\u062a."],"Wrong password":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0627\u0634\u062a\u0628\u0627\u0647 \u0627\u0633\u062a"],"You can <a href=\"%s\">create an account<\/a> or <a href=\"%l\">sign in<\/a> to save future uploads in your account.":["\u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f <a href=\"%s\">\u062b\u0628\u062a \u0646\u0627\u0645 \u06a9\u0646\u06cc\u062f<\/a> \u06cc\u0627  <a href=\"%l\">\u0648\u0627\u0631\u062f \u0634\u0648\u06cc\u062f<\/a> \u062a\u0627 \u062a\u0635\u0627\u0648\u06cc\u0631 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc \u0634\u062f\u0647 \u062f\u0631 \u0622\u06cc\u0646\u062f\u0647 \u0631\u0627 \u062f\u0631 \u062d\u0633\u0627\u0628 \u062e\u0648\u062f \u0630\u062e\u06cc\u0631\u0647 \u06a9\u0646\u06cc\u062f."],"You can also <a data-trigger=\"anywhere-upload-input\">browse from your computer<\/a> or <a data-modal=\"form\" data-target=\"anywhere-upload-paste-url\">add image URLs<\/a>.":["\u0647\u0645\u0686\u0646\u06cc\u0646 \u0634\u0645\u0627 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f <a data-trigger=\"anywhere-upload-input\">\u062a\u0635\u0648\u06cc\u0631\u06cc \u0627\u0632 \u06a9\u0627\u0645\u067e\u06cc\u0648\u062a\u0631 \u062e\u0648\u062f \u0628\u0631\u06af\u0632\u06cc\u0646\u06cc\u062f<\/a> \u06cc\u0627 <a data-modal=\"form\" data-target=\"anywhere-upload-paste-url\">\u0622\u062f\u0631\u0633 \u0627\u06cc\u0646\u062a\u0631\u0646\u062a\u06cc \u062a\u0635\u0648\u06cc\u0631 \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f.<\/a>"],"You can also <a data-trigger=\"anywhere-upload-input-camera\">take a picture<\/a>.":["\u0647\u0645\u0686\u0646\u06cc\u0646 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0647\u0645\u06cc\u0646 \u0627\u0644\u0627\u0646 <a data-trigger=\"anywhere-upload-input-camera\">\u0639\u06a9\u0633 \u0628\u06af\u06cc\u0631\u06cc\u062f<\/a>"],"You either don't have permission to access this page or the link has expired.":["\u0634\u0645\u0627 \u062f\u06cc\u06af\u0631 \u062f\u0633\u062a\u0631\u0633\u06cc \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0635\u0641\u062d\u0647 \u0631\u0627 \u0646\u062f\u0627\u0631\u06cc\u062f \u06cc\u0627 \u0627\u06cc\u0646 \u0644\u06cc\u0646\u06a9 \u0645\u0646\u0642\u0636\u06cc \u0634\u062f\u0647 \u0627\u0633\u062a"],"You have been logged off %s. Hope to see you soon.":["%s \u0634\u0645\u0627 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u062e\u0627\u0631\u062c \u0634\u062f\u06cc\u062f. \u0628\u0647 \u0627\u0645\u06cc\u062f \u062f\u06cc\u062f\u0627\u0631 "],"You have successfully changed your account email to %s":["\u0634\u0645\u0627 \u0628\u0627 \u0645\u0648\u0641\u0642\u06cc\u062a \u0627\u06cc\u0645\u06cc\u0644 \u062d\u0633\u0627\u0628 \u062e\u0648\u062f \u0631\u0627 \u0628\u0647  %s \u062a\u063a\u06cc\u06cc\u0631 \u062f\u0627\u062f\u06cc\u062f"],"You must enter the album name.":["\u0634\u0645\u0627 \u0628\u0627\u06cc\u062f \u0646\u0627\u0645 \u0622\u0644\u0628\u0648\u0645 \u0631\u0627 \u0648\u0627\u0631\u062f \u06a9\u0646\u06cc\u062f"],"You need a <a href=\"%s\" target=\"_blank\">reCAPTCHA key<\/a> for this.":["\u0634\u0645\u0627 \u0628\u0647 \u06cc\u06a9 <a href=\"%s\" target=\"_blank\">\u06a9\u0644\u06cc\u062f reCAPTCHA <\/a> \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0646\u06cc\u0627\u0632 \u062f\u0627\u0631\u06cc\u062f"],"You need a <a href=\"https:\/\/apps.twitter.com\" target=\"_blank\">Twitter app<\/a> for this.":["\u0634\u0645\u0627 \u0628\u0647 \u06cc\u06a9 You need a <a href=\"https:\/\/apps.twitter.com\" target=\"_blank\">\u0627\u067e \u062a\u0648\u06cc\u06cc\u062a\u0631<\/a> \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0646\u06cc\u0627\u0632 \u062f\u0627\u0631\u06cc\u062f"],"You need a <a href=\"https:\/\/cloud.google.com\/console\" target=\"_blank\">Google app<\/a> for this.":["\u0634\u0645\u0627 \u0628\u0647 \u06cc\u06a9 You need a <a href=\"https:\/\/cloud.google.com\/console\" target=\"_blank\">Google app<\/a> \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0646\u06cc\u0627\u0632 \u062f\u0627\u0631\u06cc\u062f."],"You need a <a href=\"https:\/\/developers.facebook.com\/\" target=\"_blank\">Facebook app<\/a> for this.":["\u0634\u0645\u0627 \u0628\u0631\u0627\u06cc \u0627\u06cc\u0646 \u0628\u0647 \u06cc\u06a9 <a href=\"https:\/\/developers.facebook.com\/\" target=\"_blank\">\u0627\u067e \u0641\u06cc\u0633\u0628\u0648\u06a9<\/a> \u0646\u06cc\u0627\u0632 \u062f\u0627\u0631\u06cc\u062f"],"You will be logged out and you won't be able to login to your account using this %s account.":["\u0634\u0645\u0627 \u062e\u0627\u0631\u062c \u062e\u0648\u0627\u0647\u06cc\u062f \u0634\u062f \u0648 \u062f\u06cc\u06af\u0631 \u0628\u0627 %s \u0642\u0627\u062f\u0631 \u0628\u0647 \u0648\u0631\u0648\u062f \u0628\u0647 \u0627\u06cc\u0646 \u062d\u0633\u0627\u0628 \u0646\u06cc\u0633\u062a\u06cc\u062f\u0648"],"Your account is almost ready":["\u062d\u0633\u0627\u0628 \u0634\u0645\u0627 \u0622\u0645\u0627\u062f\u0647 \u0627\u0633\u062a."],"Your account is connected to %s":["\u062d\u0633\u0627\u0628 \u0634\u0645\u0627 \u0628\u0647 %s \u0645\u062a\u0635\u0644 \u0634\u062f\u0647 \u0627\u0633\u062a."],"Your email address":["\u0622\u062f\u0631\u0633 \u0627\u06cc\u0645\u06cc\u0644 \u0634\u0645\u0627"],"Your name":["\u0646\u0627\u0645 \u0634\u0645\u0627"],"Your password has been changed. You can now try logging in using your new password.":["\u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u0634\u0645\u0627 \u062a\u063a\u06cc\u06cc\u0631 \u06cc\u0627\u0641\u062a. \u0634\u0645\u0627 \u0627\u06a9\u0646\u0648\u0646 \u0645\u06cc\u062a\u0648\u0627\u0646\u06cc\u062f \u0628\u0627 \u0631\u0645\u0632 \u0639\u0628\u0648\u0631 \u062c\u062f\u06cc\u062f \u0648\u0627\u0631\u062f \u0633\u0627\u06cc\u062a \u0634\u0648\u06cc\u062f."],"album":["\u0622\u0644\u0628\u0648\u0645","\u0622\u0644\u0628\u0648\u0645 \u0647\u0627"],"albums":["\u0622\u0644\u0628\u0648\u0645","\u0622\u0644\u0628\u0648\u0645 \u0647\u0627"],"average":["\u0645\u062a\u0648\u0633\u0637"],"cancel":["\u0644\u063a\u0648"],"cancel remaining":["\u0644\u063a\u0648 \u0628\u0627\u0642\u06cc \u0645\u0627\u0646\u062f\u0647 \u0647\u0627"],"center bottom":["\u0648\u0633\u0637 \u067e\u0627\u06cc\u06cc\u0646"],"center center":["\u0648\u0633\u0637 \u0648\u0633\u0637"],"center top":["\u0648\u0633\u0637 \u0628\u0627\u0644\u0627"],"close":["\u0628\u0633\u062a\u0646"],"continue anyway":["\u0627\u062f\u0627\u0645\u0647 \u062f\u0631 \u0647\u0631 \u0635\u0648\u0631\u062a"],"create new album":["\u0633\u0627\u062e\u062a \u0622\u0644\u0628\u0648\u0645 \u062c\u062f\u06cc\u062f"],"day":["\u0631\u0648\u0632","\u0631\u0648\u0632"],"days":["\u0631\u0648\u0632","\u0631\u0648\u0632"],"disconnect":["\u0642\u0637\u0639 \u0627\u0631\u062a\u0628\u0627\u0637"],"forgot?":["\u0641\u0631\u0627\u0645\u0648\u0634 \u06a9\u0631\u062f\u06cc\u062f\u061f"],"hour":["\u0633\u0627\u0639\u062a","\u0633\u0627\u0639\u062a"],"hours":["\u0633\u0627\u0639\u062a","\u0633\u0627\u0639\u062a"],"http:\/\/yourwebsite.com":["http:\/\/yourwebsite.com"],"image":["\u0639\u06a9\u0633","\u0639\u06a9\u0633"],"images":["\u0639\u06a9\u0633","\u0639\u06a9\u0633"],"learn more":["\u0628\u06cc\u0634\u062a\u0631 \u0628\u062e\u0648\u0627\u0646\u06cc\u062f."],"left bottom":["\u0686\u067e \u067e\u0627\u06cc\u06cc\u0646"],"left center":["\u0645\u0631\u06a9\u0632 \u0686\u067e"],"left top":["\u0628\u0627\u0644\u0627 \u0686\u067e"],"loading":["\u062f\u0631 \u062d\u0627\u0644 \u0628\u0627\u0631\u06af\u0630\u0627\u0631\u06cc"],"max":["\u062d\u062f\u0627\u06a9\u062b\u0631"],"minute":["\u062f\u0642\u06cc\u0642\u0647","\u062f\u0642\u06cc\u0642\u0647"],"minutes":["\u062f\u0642\u06cc\u0642\u0647","\u062f\u0642\u06cc\u0642\u0647"],"moments ago":["\u0644\u062d\u0638\u0647 \u0627\u06cc\u06cc \u067e\u06cc\u0634"],"month":["\u0645\u0627\u0647","\u0645\u0627\u0647"],"months":["\u0645\u0627\u0647","\u0645\u0627\u0647"],"optional":["\u0627\u062e\u062a\u06cc\u0627\u0631\u06cc"],"or":["\u06cc\u0627"],"private":["\u062e\u0635\u0648\u0635\u06cc"],"queue done":["\u062a\u0645\u0627\u0645 \u0634\u062f."],"reCAPTCHA private key":["reCAPTCHA private key"],"reCAPTCHA public key":["reCAPTCHA public key"],"reCAPTCHA threshold":["reCAPTCHA threshold"],"right bottom":["\u067e\u0627\u06cc\u06cc\u0646 \u0631\u0627\u0633\u062a"],"right center":["\u0631\u0627\u0633\u062a \u0645\u0631\u06a9\u0632"],"right top":["\u0628\u0627\u0644\u0627 \u0631\u0627\u0633\u062a"],"search content":["\u062c\u0633\u062a\u062c\u0648 \u0645\u0637\u0627\u0644\u0628"],"second":["\u062b\u0627\u0646\u06cc\u0647","\u062b\u0627\u0646\u06cc\u0647"],"seconds":["\u062b\u0627\u0646\u06cc\u0647","\u062b\u0627\u0646\u06cc\u0647"],"strong":["\u0642\u0648\u06cc"],"stronger":["\u062e\u06cc\u0644\u06cc \u0642\u0648\u06cc"],"very weak":["\u062e\u06cc\u0644\u06cc \u0636\u0639\u06cc\u0641"],"view":["\u0646\u0645\u0627\u06cc\u0634","\u0646\u0645\u0627\u06cc\u0634"],"views":["\u0646\u0645\u0627\u06cc\u0634","\u0646\u0645\u0627\u06cc\u0634"],"view more":["\u0628\u06cc\u0634\u062a\u0631"],"weak":["\u0636\u0639\u06cc\u0641"],"week":["\u0647\u0641\u062a\u0647","\u0647\u0641\u062a\u0647"],"weeks":["\u0647\u0641\u062a\u0647","\u0647\u0641\u062a\u0647"],"year":["\u0633\u0627\u0644","\u0633\u0627\u0644"],"years":["\u0633\u0627\u0644","\u0633\u0627\u0644"]};
+
+if(typeof CHV == "undefined") {
+	CHV = {obj: {}, fn: {}, str:{}};
+}
+
+CHV.obj.vars = {
+	urls: {
+		home: PF.obj.config.base_url,
+		search: "http://www.xum.ir/search"
+	}
+};
+
+CHV.obj.config = {
+	image : {
+		max_filesize: "5 MB"
+	},
+	user: {
+		avatar_max_filesize: "1 MB",
+		background_max_filesize: "1 MB"
+	}
+};
+
+
+CHV.obj.resource = {
+	id: "FE2J",
+	type: "image",
+	url: "http://www.xum.ir/image/FE2J",
+	parent_url: ""
+};
+
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+</body>
+</html>
