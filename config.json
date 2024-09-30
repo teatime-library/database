@@ -3,5 +3,6 @@
     "serverMode": "full",
     "requestChunkSize": 4096,
     "url": "https://teatime-library.github.io/database/books.db"
-  }
+  },
+  "images": "https://teatime-library.github.io/database/covers/${ipfs_cid}"
 }
