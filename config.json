@@ -4,5 +4,15 @@
     "requestChunkSize": 4096,
     "url": "https://teatime-library.github.io/database/books.db"
   },
-  "images": "https://teatime-library.github.io/database/covers/${ipfs_cid}"
+  "images": "https://teatime-library.github.io/database/covers/${ipfs_cid}",
+  "tableName": "updated_data",
+  "columns": {
+    "title": "Title",
+    "author": "Author",
+    "lang": "Language",
+    "ext": "Extension",
+    "md5": "MD5",
+    "year": "Year",
+    "size": "Filesize"
+  }
 }
